@@ -1,0 +1,378 @@
+/*------------------------------------------------------------------------
+
+Template Name:  Bantec - IT Solutions & Technology Theme
+Author:  ThemeOri
+Author URI: http://themeori.com
+Version: 1.0.0
+Description: This is a theme is created for WordPress
+
+--------------------------------------------------------------------------
+TABLE OF CONTENTS
+--------------------------------------------------------------------------
+
+* Common CSS
+* Form CSS
+* Hedging CSS
+* Button And Title Styles CSS
+* Scroll Top CSS
+* Preloader CSS
+* Color & Font CSS
+* Space And Container CSS
+* Menu Bar CSS
+* Responsive Menu Css
+* Blog Grid CSS
+* Blog Standard CSS
+* Blog Details CSS
+* Breadcrumb CSS
+* Error CSS
+* Theme Pagination CSS
+* Copyright One CSS
+
+/*==========================================================================
+* Common CSS
+==========================================================================*/
+body {
+	font-family: var(--theme-font);
+	color: var(--body-color);
+	font-size: 18px;
+	line-height: 28px;
+  	font-weight: 400;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	transition: 0.4s;
+}
+a {  
+  outline: none;
+  color: inherit;
+  text-decoration: none;
+}
+a,
+button,
+i {
+	text-decoration: none;
+	color: inherit;
+}
+a:focus,
+a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+.section-padding {
+	padding: 120px 0px;
+}
+.section-padding-two {
+	padding: 120px 0 90px 0;
+}
+.section-padding-three {
+	padding: 90px 0 120px 0;
+}
+@media (max-width: 575px) {
+	.section-padding {
+		padding: 90px 0px;
+	}
+	.section-padding-two {
+		padding: 90px 0 60px 0;
+	}
+	.section-padding-three {
+		padding: 60px 0 90px 0;
+	}
+}
+.display-none {
+	display: none;
+}
+.display-block {
+	display: block;
+}
+.img__full {
+	width: 100%;
+}
+/*==========================================================================
+* Form CSS
+==========================================================================*/
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: var(--primary-color-1);
+	border-color: transparent;
+	border-radius: 5px;
+	color: var(--text-white);
+	padding: 16px 30px;
+}
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  	border-color: transparent;
+}
+button:active,
+button:focus,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"]:active,
+input[type="submit"]:focus {
+  	border-color: transparent;
+}
+input[type="text"],
+input[type="file"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	color: var(--body-color);
+	border-radius: 6px;
+	width: 100%;
+	height: 60px;
+	background: var(--bg-white);
+	border: 1px solid var(--border-color-1);
+	padding: 0 15px;
+	&::placeholder {
+		color: var(--body-color);
+	}
+}
+input[type="text"]:focus,
+input[type="file"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+	color: var(--body-color);
+	outline: none;
+	box-shadow: none !important;
+	border-color: var(--primary-color-1);
+}
+select {
+	border: 1px solid rgba(var(--border-color-2), .1);
+}
+textarea {
+	width: 100%;
+	height: 150px;
+	padding-top: 15px;
+}
+button,
+button:hover,
+button:focus {
+	box-shadow: none;
+	border: none;
+	outline: none;
+}
+/*==========================================================================
+* Hedging CSS
+==========================================================================*/
+$list: (h1, 74px, 84px, 0, 0, var(--text-heading-color), var(--theme-font), 700),
+(h2, 60px, 68px, 0, 0, var(--text-heading-color), var(--theme-font), 700),
+(h3, 32px, 40px, 0, 0, var(--text-heading-color), var(--theme-font), 700),
+(h4, 26px, 34px, 0, 0, var(--text-heading-color), var(--theme-font), 700),
+(h5, 22px, 36px, 0, 0, var(--text-heading-color), var(--theme-font), 700),
+(h6, 18px, 28px, 0, 0, var(--text-heading-color), var(--theme-font), 700);
+@each $name, $size, $height, $p, $m, $color, $font, $weight in $list {
+    #{$name}{
+      font-size: $size;
+      line-height: $height;
+      padding: $p;
+      margin: $m;
+      color: $color;
+      font-family: $font;
+      font-weight: $weight;
+    }
+}
+@media (max-width: 767px) {
+	body {
+		font-size: 16px;
+		line-height: 26px;
+	}
+}
+/*==========================================================================
+* Button And Title Styles CSS
+==========================================================================*/
+.btn-one {
+	background: var(--primary-color-1);
+	color: var(--text-white);
+	display: inline-flex;
+	gap: 10px;
+	align-items: center;
+	font-size: 18px;
+	line-height: 28px;
+	padding: 16px 35px;
+	font-family: var(--theme-font);
+	position: relative;
+	z-index: 3;
+	overflow: hidden;
+	transition: 0.4s;
+	text-transform: capitalize;
+	font-weight: 500;
+	border-radius: 5px;
+    &::after,
+    &::before {
+		position: absolute;
+		top: 0;
+		left: 0;
+		content: '';
+		width: 51%;
+		height: 0;
+		background: var(--color-3);
+		z-index: -1;
+		transition: 0.4s;
+    }
+	&::after {
+		left: inherit;
+		right: 0;
+		top: inherit;
+		bottom: 0;
+	}
+	&:hover {
+		color: var(--text-white);
+		&::before,
+		&::after {
+			height: 100%;
+		}
+	}
+}
+.simple-btn {
+	color: var(--text-heading-color);
+	display: inline-flex;
+	gap: 8px;
+	align-items: center;
+	font-family: var(--theme-font);
+	position: relative;
+	z-index: 3;
+	transition: 0.4s;
+	text-transform: capitalize;
+	font-weight: 600;
+	i {
+		transition: 0.4s;
+		color: var(--primary-color-1);
+		font-size: 16px;
+		font-weight: 600;
+	}
+	&:hover {
+		color: var(--primary-color-1);
+	}
+	&:focus {
+		color: var(--text-heading-color);
+	}
+}
+/*==========================================================================
+* Scroll Top CSS
+==========================================================================*/
+.scroll-up {
+	cursor: pointer;
+	display: block;
+	border-radius: 50px;
+	box-shadow: inset  0 0 0 2px var(--color-4);
+	z-index: 10000;
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(15px);
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	height: 50px;
+	width: 50px;
+    transition: all 200ms linear;
+	&::after {
+		position: absolute;
+		font-family: 'Font Awesome 5 Pro';
+		content: "\f176";
+		text-align: center;
+		line-height: 50px;
+		font-size: 24px;
+		color: var(--primary-color-1);
+		left: 0;
+		top: 0;
+		font-size: 20px;
+		height: 50px;
+		width: 50px;
+		cursor: pointer;
+		display: block;
+		z-index: 1;
+		transition: all 200ms linear;
+	}
+	&.active-scroll {
+		opacity: 1;
+		visibility: visible;
+		transform: translateY(0);
+	}
+	svg path { 
+		fill: none; 
+	}
+	svg.scroll-circle path {
+		stroke: var(--primary-color-1);
+		stroke-width: 4;
+		box-sizing:border-box;
+		transition: all 200ms linear;
+	}
+}
+/*==========================================================================
+* Preloader CSS
+==========================================================================*/
+.theme-loader {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: var(--color-1);
+	z-index: 9999999999;
+}
+.spinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	display: flex;
+	gap: 15px;
+}
+.spinner-bounce {
+	will-change: transform;
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	background: var(--primary-color-1);
+	display: inline-block;
+	animation: bounces 1s ease-in-out infinite alternate;
+	transform-origin: 50% 50%;
+	&.two {
+		animation-delay: .4s;
+	}
+	&.three {
+		animation-delay: .8s;
+	}
+}
+@keyframes bounces {
+	0% {
+		transform: scale(1);
+		background: var(--primary-color-1);
+	}
+	50% {
+		background: var(--primary-color-3);
+	}
+	100% {
+		transform: scale(.2);
+		background: var(--primary-color-2);
+	}
+}

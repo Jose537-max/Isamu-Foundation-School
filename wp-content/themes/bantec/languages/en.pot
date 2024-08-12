@@ -1,0 +1,945 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-04-05 09:53+0600\n"
+"PO-Revision-Date: 2024-03-26 23:01+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;_e;esc_html;esc_attr;esc_attr__;"
+"esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:34
+msgid " Comment"
+msgstr ""
+
+#: comments.php:36
+msgid " Comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/admin/theme-page.php:34 inc/admin/theme-page.php:35
+msgid "Bantec"
+msgstr ""
+
+#: inc/admin/theme-page.php:48 inc/admin/theme-page.php:49
+msgid "Welcome"
+msgstr ""
+
+#: inc/admin/welcome.php:11
+msgid "Welcome to Bantec!"
+msgstr ""
+
+#: inc/admin/welcome.php:14
+msgid "Bantec - IT Solutions & Technology WordPress Theme"
+msgstr ""
+
+#: inc/admin/welcome.php:29
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/welcome.php:35
+msgid "You can find everything about theme functionality."
+msgstr ""
+
+#: inc/admin/welcome.php:38
+msgid "Go to Documentation"
+msgstr ""
+
+#: inc/admin/welcome.php:48
+msgid "Bantec Support"
+msgstr ""
+
+#: inc/admin/welcome.php:54
+msgid "Do you need help? Feel to free ask any question."
+msgstr ""
+
+#: inc/admin/welcome.php:57
+msgid "Go to Support Page"
+msgstr ""
+
+#: inc/core/comment-form.php:9
+msgid "Full Name*"
+msgstr ""
+
+#: inc/core/comment-form.php:17
+msgid "Email Address*"
+msgstr ""
+
+#: inc/core/comment-form.php:25
+msgid "https://"
+msgstr ""
+
+#: inc/core/comment-form.php:43
+msgid "Your Comment*"
+msgstr ""
+
+#: inc/core/comment-form.php:49
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/core/comment-form.php:53
+msgid "Fields (*) Mark are Required"
+msgstr ""
+
+#: inc/core/comment-form.php:54
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/core/register-sidebar.php:13
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/core/register-sidebar.php:15 inc/core/register-sidebar.php:30
+#: inc/core/register-sidebar.php:43
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/core/register-sidebar.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/core/register-sidebar.php:41
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/core/theme-install.php:54 inc/demo-content/demo-import.php:88
+msgid "Main Menu"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:34
+msgid "Main Demo"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:97
+msgid "Home 01"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:106
+#: inc/theme-options/options-default.php:26
+#: inc/theme-options/options-default.php:29
+msgid "Blog"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:122
+msgid "Demo Import"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:8
+msgid "Settings"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:13
+msgid "Global Options"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:20
+msgid "Content Padding"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:22 inc/metabox/theme-metabox.php:33
+#: inc/metabox/theme-metabox.php:84 inc/metabox/theme-metabox.php:110
+#: inc/metabox/theme-metabox.php:130 inc/metabox/theme-metabox.php:169
+#: inc/metabox/theme-metabox.php:222 inc/theme-options/blog-options.php:22
+#: inc/theme-options/blog-options.php:33 inc/theme-options/blog-options.php:44
+#: inc/theme-options/blog-options.php:72 inc/theme-options/blog-options.php:83
+#: inc/theme-options/blog-options.php:94
+#: inc/theme-options/breadcrumb-options.php:16
+#: inc/theme-options/error-page-options.php:34
+#: inc/theme-options/global-options.php:13
+#: inc/theme-options/global-options.php:35
+msgid "Yes"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:23 inc/metabox/theme-metabox.php:34
+#: inc/metabox/theme-metabox.php:85 inc/metabox/theme-metabox.php:111
+#: inc/metabox/theme-metabox.php:131 inc/metabox/theme-metabox.php:170
+#: inc/metabox/theme-metabox.php:223 inc/theme-options/blog-options.php:23
+#: inc/theme-options/blog-options.php:34 inc/theme-options/blog-options.php:45
+#: inc/theme-options/blog-options.php:73 inc/theme-options/blog-options.php:84
+#: inc/theme-options/blog-options.php:95
+#: inc/theme-options/breadcrumb-options.php:17
+#: inc/theme-options/error-page-options.php:35
+#: inc/theme-options/global-options.php:14
+#: inc/theme-options/global-options.php:36
+msgid "No"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:31
+msgid "Custom Layout"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:42
+msgid "Select Layout"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:55
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:56 inc/theme-options/site-layout.php:30
+#: inc/theme-options/site-layout.php:56 inc/theme-options/site-layout.php:79
+#: inc/theme-options/site-layout.php:103
+msgid "Select a Sidebar"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:67
+msgid "ScrollUp Color"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:75 inc/theme-options/header-options.php:4
+msgid "Header Options"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:82 inc/theme-options/header-options.php:24
+msgid "Custom Header"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:94 inc/metabox/theme-metabox.php:196
+#: inc/metabox/theme-metabox.php:232
+#: inc/theme-options/breadcrumb-options.php:77
+#: inc/theme-options/footer-options.php:34
+#: inc/theme-options/header-options.php:34
+msgid "Select a Template"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:108
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:121
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:128
+msgid "Enable Banner"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:139
+#: inc/theme-options/breadcrumb-options.php:25
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:141
+#: inc/theme-options/breadcrumb-options.php:27
+msgid "Default Breadcrumb"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:142
+#: inc/theme-options/breadcrumb-options.php:28
+msgid "Custom Breadcrumb"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:151
+#: inc/theme-options/breadcrumb-options.php:59
+msgid "Background"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:167 inc/metabox/theme-metabox.php:183
+msgid "Custom Page Title"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:182
+msgid "Page Title"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:213 inc/theme-options/footer-options.php:6
+msgid "Footer Options"
+msgstr ""
+
+#: inc/metabox/theme-metabox.php:220 inc/theme-options/footer-options.php:25
+msgid "Custom Footer"
+msgstr ""
+
+#: inc/template-functions.php:200
+msgid "Reply"
+msgstr ""
+
+#: inc/template-functions.php:204
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:210
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "1 "
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comments"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:39
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:920
+#: inc/tgm/class-tgm-plugin-activation.php:2626
+#: inc/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1027
+#: inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#: inc/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/install.php:26
+msgid "Bantec Toolkit"
+msgstr ""
+
+#: inc/tgm/install.php:38
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm/install.php:44
+msgid "Elementor Website Builder"
+msgstr ""
+
+#: inc/tgm/install.php:50
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/install.php:56
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/install.php:62
+msgid "TI WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgm/install.php:68
+msgid "WPC Smart Quick View for WooCommerce"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:4
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:11
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:20 inc/theme-options/blog-options.php:70
+msgid "Show Date"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:31 inc/theme-options/blog-options.php:81
+msgid "Show Author"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:42 inc/theme-options/blog-options.php:92
+msgid "Show Comment"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:53
+#: inc/theme-options/error-page-options.php:44
+msgid "Button Text"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:61
+msgid "Single Blog"
+msgstr ""
+
+#: inc/theme-options/breadcrumb-options.php:6
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options/breadcrumb-options.php:14
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/theme-options/breadcrumb-options.php:31
+msgid "Select a Style"
+msgstr ""
+
+#: inc/theme-options/breadcrumb-options.php:39
+msgid "Home Text"
+msgstr ""
+
+#: inc/theme-options/breadcrumb-options.php:49
+msgid "Blog Text"
+msgstr ""
+
+#: inc/theme-options/color-options.php:4
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/theme-options/color-options.php:11
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:6
+msgid "404 Error"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:14
+#: template-parts/default-options/breadcrumb/default.php:115
+msgid "404"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:26
+msgid "Content"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:32
+msgid "Home Button"
+msgstr ""
+
+#: inc/theme-options/error-page-options.php:38
+#: inc/theme-options/global-options.php:17
+#: inc/theme-options/global-options.php:39
+msgid "Enable or Disable"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:13
+msgid "General Footer"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:22
+msgid "Footer Style"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:24
+msgid "Default Footer"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:45
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:52
+msgid "Copyright Color"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:61
+msgid "Copyright Background"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:74
+msgid "CopyRight Content"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:83
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme-options/global-options.php:3
+msgid "Global Settings"
+msgstr ""
+
+#: inc/theme-options/global-options.php:11
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-options/global-options.php:23
+msgid "Preloader Background"
+msgstr ""
+
+#: inc/theme-options/global-options.php:24
+msgid "Select a Background"
+msgstr ""
+
+#: inc/theme-options/global-options.php:33
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/theme-options/header-options.php:12
+msgid "General Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:21
+msgid "General Header Style"
+msgstr ""
+
+#: inc/theme-options/header-options.php:23
+msgid "Default Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:27
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/theme-options/header-options.php:47
+msgid "Default Logo"
+msgstr ""
+
+#: inc/theme-options/header-options.php:50
+msgid "Upload"
+msgstr ""
+
+#: inc/theme-options/header-options.php:57
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-options/header-options.php:66
+msgid "Border Color"
+msgstr ""
+
+#: inc/theme-options/options-default.php:21
+msgid ""
+"<p>Copyright 2024 - All Rights Reserved By <a href=\"http://themeforest.net/"
+"user/themeori\">ThemeOri</a></p>"
+msgstr ""
+
+#: inc/theme-options/options-default.php:22
+msgid "4<span>0</span>4"
+msgstr ""
+
+#: inc/theme-options/options-default.php:23
+msgid "Oops! Page not found."
+msgstr ""
+
+#: inc/theme-options/options-default.php:24
+msgid ""
+"The page you are looking for is not available or doesn’t belong to this "
+"website!"
+msgstr ""
+
+#: inc/theme-options/options-default.php:25
+msgid "Back to Home"
+msgstr ""
+
+#: inc/theme-options/options-default.php:27
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-options/options-default.php:28
+msgid "Home"
+msgstr ""
+
+#: inc/theme-options/options-default.php:66
+msgid "Font Awesome 6 Pro"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:4
+msgid "Layout Options"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:11
+msgid "Page Layout"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:17 inc/theme-options/site-layout.php:43
+#: inc/theme-options/site-layout.php:67 inc/theme-options/site-layout.php:90
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:29 inc/theme-options/site-layout.php:55
+#: inc/theme-options/site-layout.php:78 inc/theme-options/site-layout.php:102
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:37
+msgid "Blog/Archive Layout"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:62
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/theme-options/site-layout.php:85
+msgid "Service Layout"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:15
+msgid "Theme Options <small>By ThemeOri</small>"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:24
+msgid ""
+"Developed by: <a target=\"_blank\" href=\"https://themeforest.net/user/"
+"themeori/portfolio\">ThemeOri</a>"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:32
+msgid "ThemeOri Core Framework"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:88
+msgid "Backup"
+msgstr ""
+
+#: inc/theme-options/typography-options.php:5
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options/typography-options.php:14
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options/typography-options.php:30
+msgid "Heading Typography"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/default-options/breadcrumb/default.php:34
+#: template-parts/default-options/breadcrumb/default.php:58
+#: template-parts/default-options/breadcrumb/default.php:82
+#: template-parts/default-options/breadcrumb/default.php:112
+#: template-parts/default-options/breadcrumb/default.php:134
+msgid "|"
+msgstr ""
+
+#: template-parts/default-options/breadcrumb/default.php:51
+#: template-parts/default-options/breadcrumb/default.php:61
+msgid "Shop"
+msgstr ""
+
+#: template-parts/default-options/breadcrumb/default.php:104
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/default-options/breadcrumb/default.php:122
+msgid "Search Results.."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""

@@ -1,0 +1,306 @@
+/*==========================================================================
+Menu Bar Sticky CSS
+==========================================================================*/
+.header__sticky.header__sticky {
+    &-sticky-menu {
+        position: fixed;
+        left: 0;
+        top: 0;
+        right: 0;
+        z-index: 999;
+        width: 100%;
+        box-shadow: 0 20 70px rgba(var(--border-color-3), 0.04);
+        animation: header_sticky 1.1s;
+        background: var(--bg-white);
+        display: block;
+    }
+    @keyframes header_sticky {
+        0% {
+            top: -250px;
+        }
+        100% {
+            top: 0;
+        }
+    }
+}
+/*==========================================================================
+* Menu Bar CSS
+==========================================================================*/
+.theme_header__area {
+    background: var(--color-3);
+    border-bottom: 1px solid var(--color-4);
+    padding: 20px 0;
+    &-menubar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        &-left {
+            position: relative;
+            z-index: 999;
+            &-logo {
+                a {
+                    display: inline-block;
+                    img {
+                        max-width: 140px;
+                    }
+                }
+            }
+        }
+        &-center {
+            &-menu {
+                ul {
+                    padding: 0;
+                    margin: 0;
+                    li {
+                        display: inline-block;
+                        position: relative;
+                        list-style: none; 
+                        margin: 0 22px;
+                        &:hover {
+                            > a {
+                                color: var(--primary-color-1);
+                            }
+                            > .sub-menu {
+                                transform: scale(1, 1);
+                                opacity: 1;
+                                visibility: visible;
+                            }
+                        }
+                        .sub-menu {
+                            position: absolute;
+                            background: var(--bg-white);
+                            min-width: 260px;
+                            transition: 0.4s;
+                            top: 63px;
+                            opacity: 0;
+                            visibility: hidden;
+                            z-index: 99;
+                            transform: scale(1, 0);
+                            transform-origin: 0 0;
+                            border-top: 4px solid var(--primary-color-1);
+                            li {
+                                display: block;
+                                padding: 0 30px;
+                                margin: 0;
+                                &::after {
+                                    display: none;
+                                }
+                                > a {
+                                    border-bottom: 1px solid rgba(var(--border-color-3), .08);
+                                    color: var(--text-heading-color);
+                                    padding: 12px 0;
+                                    transition: all 0.4s ease-out 0s;
+                                    font-size: 15px;
+                                    line-height: 25px;
+                                    text-transform: capitalize;
+                                    position: relative;
+                                    &::after {
+                                        position: absolute;
+                                        content: '';
+                                        background: var(--primary-color-1);
+                                        width: 0;
+                                        transition: all 0.4s ease-out 0s;
+                                        height: 1px;
+                                        left: 0;
+                                        bottom: -1px;
+                                    }
+                                }
+                                .sub-menu {
+                                    left: 100%;
+                                    top: 0;
+                                }
+                                &:hover {
+                                    > a {
+                                        color: var(--primary-color-1);
+                                        &::after {
+                                            width: 100%;
+                                        }
+                                    }
+                                }
+                                &:last-child > a {
+                                    border: none;
+                                    &::after {
+                                        display: none;
+                                    }
+                                }
+                                &:first-child .sub-menu {
+                                    top: -4px;
+                                }
+                            }
+                            .menu-item-has-children > {
+                                a {
+                                    &::before {
+                                        content: '\f105';
+                                        right: 0;
+                                        color: var(--text-heading-color);
+                                    }
+                                }
+                            }
+                        }
+                        ul {
+                            .sub-menu li .sub-menu{
+                                color: var(--text-heading-color);
+                                cursor: pointer;
+                            }
+                        }
+                        a {
+                            color: var(--text-white);
+                            display: block;
+                            font-size: 18px;
+                            line-height: 28px;
+                            transition: 0.4s;
+                            font-family: var(--theme-font);
+                            text-transform: capitalize;
+                            font-weight: 400;
+                        }
+                        &.menu-item-has-children > {
+                            a {
+                                position: relative;
+                                &::before {
+                                    content: '\f107';
+                                    position: absolute;
+                                    top: 50%;
+                                    transform: translateY(-44%);
+                                    right: -16px;
+                                    font-family: 'Font Awesome 5 Pro';
+                                    font-weight: 400;
+                                    color: var(--text-white);
+                                    transition: 0.3s;
+                                    font-size: 14px;
+                                }
+                            }
+                        }
+                        &.menu-item-has-children {
+                            padding-right: 15px;
+                            &:hover > a {
+                                &::before {
+                                    color: var(--primary-color-1);
+                                }
+                            }
+                        }
+                        &:first-child {
+                            margin-left: 0;
+                        }
+                        &:last-child {
+                            margin-right: 0;
+                        }
+                        &.active {
+                            &::after {
+                                width: 100%;
+                                bottom: -39px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.theme_header__area-menubar-center-menu ul li:nth-child(n+3) .sub-menu li .sub-menu {
+    right: 100%;
+    left: initial;
+}
+/*==========================================================================
+* Responsive Menu Css
+==========================================================================*/
+.responsive-menu {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100%;
+    z-index: 99;
+    display: none;
+}
+.mean-container {
+	a.meanmenu-reveal {
+        color: var(--text-heading-color);
+        width: 25px;
+        height: 30px;
+        top: 22px;
+        padding: 0;
+        transition: all 0s ease-out 0s;
+        margin-right: 12px;
+		span {	
+			background: var(--text-white);
+			margin-top: 7px;		
+            height: 2px;
+		}
+	}
+	.mean-bar {
+		background: transparent;
+		padding: 0;
+		z-index: 99;
+		a i {
+			font-size: 32px;
+			display: block;
+            color: var(--text-white);
+		}
+	}
+	.mean-nav {
+        background: var(--bg-white);
+        margin-top: 80px;
+		ul li a {
+            transition: 0.4s;
+            &.mean-expand {
+                background: var(--primary-color-1);
+                height: 34px;
+                margin: 0;
+                border: 0;
+                color: var(--text-white);
+                &:hover {
+                    background: var(--primary-color-1);
+                    color: var(--text-white);
+                }
+            }
+            &:hover {
+                color: var(--primary-color-1);
+                background: none;
+            }
+		}        
+		.sub-menu li a.mean-expand {
+			background: var(--primary-color-1);
+			height: 34px;
+			color: var(--text-white);
+			&:hover {
+			    background: var(--primary-color-1);
+			}
+		}
+        ul li a i {
+            display: none;
+        }
+	}
+}
+.mean-container .mean-nav ul li a,
+.mean-container .mean-nav ul li li a,
+.mean-container .mean-nav li li:first-child > a {
+	color: var(--text-heading-color);
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: capitalize;
+	border-top: 1px solid var(--border-color-1);
+	opacity: 1;
+    &:hover {
+        color: var(--primary-color-1);
+    }
+}
+@media (max-width: 1150px) {
+    .theme_header__area {
+        &-menubar-right {
+            &-btn {
+                display: none;
+            }
+        }
+    }
+}
+@media (max-width: 991px) {
+    .responsive-menu {
+        display: block;
+    }
+    .theme_header__area {
+        padding: 10px 0;
+        &-menubar-center-menu {
+            display: none;
+        }
+    }
+}

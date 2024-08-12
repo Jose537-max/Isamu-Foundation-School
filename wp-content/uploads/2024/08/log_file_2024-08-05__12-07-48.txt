@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Light Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/word
+Data file = C:\wamp64\www\word/wp-content/themes/bantec//inc/demo-content/light/content.xml
+Widget file = C:\wamp64\www\word/wp-content/themes/bantec//inc/demo-content/light/widget.wie
+Customizer file = C:\wamp64\www\word/wp-content/themes/bantec//inc/demo-content/light/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Block - No Title - Widget already exists
+Recent Post - Bantec - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Left Sidebar : 
+
+Block - No Title - Widget already exists
+
+Service Sidebar : 
+
+Menu Lists - Bantec - No Title - Widget already exists
+Download Info - Bantec - Download - Widget already exists
+CTA Sidebar - Bantec - Instant Support - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

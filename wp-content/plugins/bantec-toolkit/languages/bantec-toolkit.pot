@@ -1,0 +1,3250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-04-05 09:53+0600\n"
+"PO-Revision-Date: 2024-03-26 23:04+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html;esc_html__;_e;esc_attr;esc_attr__;"
+"esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/block-widgets/blocks/download.php:5
+msgid "Download Info - Bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:7
+msgid "This Widget for Download Info - Bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:13
+#: core/block-widgets/blocks/recent-post.php:12
+#: core/block-widgets/blocks/sidebar-cta.php:12
+#: elementor-addons/widgets/accordion/accordion.php:53
+#: elementor-addons/widgets/accordion/accordion.php:197
+#: elementor-addons/widgets/blog/blog.php:910
+#: elementor-addons/widgets/custom-design/banner-one.php:69
+#: elementor-addons/widgets/custom-design/banner-one.php:198
+#: elementor-addons/widgets/custom-design/banner-two.php:78
+#: elementor-addons/widgets/custom-design/banner-two.php:222
+#: elementor-addons/widgets/icon-box/icon-box.php:165
+#: elementor-addons/widgets/icon-box/icon-box.php:779
+#: elementor-addons/widgets/icon-box/icon-box.php:865
+#: elementor-addons/widgets/portfolio/portfolio.php:740
+#: elementor-addons/widgets/portfolio/portfolio.php:884
+#: elementor-addons/widgets/skills/skills-bar.php:134
+#: elementor-addons/widgets/tab/tab.php:76
+#: elementor-addons/widgets/tab/tab.php:469
+#: elementor-addons/widgets/tab/tab.php:524
+msgid "Title"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:14
+msgid "Download"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:19
+msgid "PDF Button"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:20
+msgid "Our Brochures"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:25
+msgid "PDF URL"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:26
+#: core/block-widgets/blocks/download.php:38
+#: elementor-addons/widgets/button/button.php:109
+#: elementor-addons/widgets/custom-design/banner-one.php:112
+#: elementor-addons/widgets/custom-design/banner-one.php:121
+#: elementor-addons/widgets/custom-design/banner-two.php:122
+#: elementor-addons/widgets/custom-design/banner-two.php:132
+#: elementor-addons/widgets/menu/mega-menu.php:84
+#: elementor-addons/widgets/menu/nav-menu.php:79
+#: elementor-addons/widgets/slide/text-slide.php:142
+#: elementor-addons/widgets/slide/text-slide.php:149
+#: elementor-addons/widgets/slide/text-slide.php:202
+#: elementor-addons/widgets/slide/text-slide.php:208
+#: elementor-addons/widgets/team/team.php:102
+msgid "http://google.com"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:31
+msgid "Company Button"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:32
+msgid "Company Details"
+msgstr ""
+
+#: core/block-widgets/blocks/download.php:37
+msgid "Company File URL"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:5
+msgid "Menu Lists - Bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:7
+msgid "This Widget for Menu List - bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:14
+msgid "Widget Title"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:15
+msgid "Our Solution"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:22
+msgid "Select Menu"
+msgstr ""
+
+#: core/block-widgets/blocks/menu-list.php:23
+#: elementor-addons/widgets/menu/mega-menu.php:52
+#: elementor-addons/widgets/menu/nav-menu.php:50
+#: elementor-addons/widgets/menu/vertical-menu.php:51
+msgid "Select a Menu"
+msgstr ""
+
+#: core/block-widgets/blocks/recent-post.php:5
+msgid "Recent Post - Bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/recent-post.php:7
+msgid "This Widget Make Recent Post"
+msgstr ""
+
+#: core/block-widgets/blocks/recent-post.php:17
+msgid "Post Per Page"
+msgstr ""
+
+#: core/block-widgets/blocks/recent-post.php:65
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:5
+msgid "CTA Sidebar - Bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:7
+msgid "This Widget for CTA Info - bantec"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:13
+msgid "Get Touch"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:19
+#: elementor-addons/widgets/custom-design/banner-two.php:70
+#: elementor-addons/widgets/custom-design/banner-two.php:185
+msgid "Sub Title"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:20
+msgid "Quick Help"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:26
+#: elementor-addons/widgets/icon-box/icon-box.php:142
+#: elementor-addons/widgets/icon-box/icon-box.php:402
+msgid "Number"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:27
+msgid "+125 (895) 658 568"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:33
+msgid "Number Url"
+msgstr ""
+
+#: core/block-widgets/blocks/sidebar-cta.php:34
+msgid "tel:+125 (895) 658 568"
+msgstr ""
+
+#: core/custom-post-type.php:9
+msgid "Portfolios"
+msgstr ""
+
+#: core/custom-post-type.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: core/custom-post-type.php:16
+msgid "dashicons-portfolio"
+msgstr ""
+
+#: core/custom-post-type.php:26
+msgid "Services"
+msgstr ""
+
+#: core/custom-post-type.php:27
+msgid "Service"
+msgstr ""
+
+#: core/custom-post-type.php:33 core/custom-post-type.php:49
+msgid "dashicons-index-card"
+msgstr ""
+
+#: core/custom-post-type.php:43
+msgid "Template Builders"
+msgstr ""
+
+#: core/custom-post-type.php:44
+msgid "Template Builder"
+msgstr ""
+
+#: core/custom-post-type.php:64
+msgid "Portfolio Categories"
+msgstr ""
+
+#: core/custom-post-type.php:65
+msgid "Portfolio Category"
+msgstr ""
+
+#: core/custom-post-type.php:79
+msgid "Service Categories"
+msgstr ""
+
+#: core/custom-post-type.php:80
+msgid "Service Category"
+msgstr ""
+
+#: core/mega-menu/nav-options.php:27
+#: elementor-addons/widgets/menu/mega-menu.php:179
+msgid "Mega Menu"
+msgstr ""
+
+#: core/mega-menu/nav-options.php:29 elementor-addons/widgets/blog/blog.php:229
+#: elementor-addons/widgets/blog/blog.php:241
+#: elementor-addons/widgets/blog/blog.php:253
+#: elementor-addons/widgets/blog/blog.php:274
+#: elementor-addons/widgets/icon-box/icon-box.php:133
+#: elementor-addons/widgets/icon-box/icon-box.php:210
+#: elementor-addons/widgets/portfolio/portfolio.php:125
+#: elementor-addons/widgets/portfolio/portfolio.php:136
+#: elementor-addons/widgets/portfolio/portfolio.php:150
+#: elementor-addons/widgets/portfolio/portfolio.php:166
+#: elementor-addons/widgets/portfolio/portfolio.php:384
+#: elementor-addons/widgets/portfolio/portfolio.php:528
+#: elementor-addons/widgets/portfolio/portfolio.php:951
+#: elementor-addons/widgets/skills/skills-bar.php:200
+#: elementor-addons/widgets/slide/text-slide.php:87
+#: elementor-addons/widgets/slide/text-slide.php:470
+#: elementor-addons/widgets/tab/tab.php:332
+#: elementor-addons/widgets/team/team.php:111
+#: elementor-addons/widgets/testimonial/testimonial.php:128
+#: elementor-addons/widgets/testimonial/testimonial.php:139
+#: elementor-addons/widgets/testimonial/testimonial.php:153
+#: elementor-addons/widgets/testimonial/testimonial.php:169
+msgid "Yes"
+msgstr ""
+
+#: core/mega-menu/nav-options.php:30 elementor-addons/widgets/blog/blog.php:230
+#: elementor-addons/widgets/blog/blog.php:242
+#: elementor-addons/widgets/blog/blog.php:254
+#: elementor-addons/widgets/blog/blog.php:275
+#: elementor-addons/widgets/icon-box/icon-box.php:134
+#: elementor-addons/widgets/icon-box/icon-box.php:211
+#: elementor-addons/widgets/portfolio/portfolio.php:126
+#: elementor-addons/widgets/portfolio/portfolio.php:137
+#: elementor-addons/widgets/portfolio/portfolio.php:151
+#: elementor-addons/widgets/portfolio/portfolio.php:167
+#: elementor-addons/widgets/portfolio/portfolio.php:385
+#: elementor-addons/widgets/portfolio/portfolio.php:527
+#: elementor-addons/widgets/portfolio/portfolio.php:952
+#: elementor-addons/widgets/skills/skills-bar.php:199
+#: elementor-addons/widgets/slide/text-slide.php:88
+#: elementor-addons/widgets/slide/text-slide.php:469
+#: elementor-addons/widgets/tab/tab.php:333
+#: elementor-addons/widgets/team/team.php:112
+#: elementor-addons/widgets/testimonial/testimonial.php:129
+#: elementor-addons/widgets/testimonial/testimonial.php:140
+#: elementor-addons/widgets/testimonial/testimonial.php:154
+#: elementor-addons/widgets/testimonial/testimonial.php:170
+msgid "No"
+msgstr ""
+
+#: core/mega-menu/nav-options.php:39 elementor-addons/widgets/tab/tab.php:108
+msgid "Select a Template"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:11
+msgid "Bantec Sticky"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:19
+msgid "Enable"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:28
+msgid "Offset"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:42
+#: elementor-addons/widgets/accordion/accordion.php:152
+#: elementor-addons/widgets/accordion/accordion.php:410
+#: elementor-addons/widgets/accordion/accordion.php:505
+#: elementor-addons/widgets/blog/blog.php:633
+#: elementor-addons/widgets/blog/blog.php:716
+#: elementor-addons/widgets/blog/blog.php:935
+#: elementor-addons/widgets/blog/blog.php:1131
+#: elementor-addons/widgets/blog/blog.php:1312
+#: elementor-addons/widgets/blog/blog.php:1382
+#: elementor-addons/widgets/blog/blog.php:1509
+#: elementor-addons/widgets/button/button.php:151
+#: elementor-addons/widgets/button/button.php:339
+#: elementor-addons/widgets/contact-form/contact-form7.php:110
+#: elementor-addons/widgets/custom-design/banner-one.php:454
+#: elementor-addons/widgets/custom-design/banner-two.php:212
+#: elementor-addons/widgets/custom-design/banner-two.php:554
+#: elementor-addons/widgets/custom-design/banner-two.php:597
+#: elementor-addons/widgets/custom-design/banner-two.php:730
+#: elementor-addons/widgets/icon-box/icon-box.php:293
+#: elementor-addons/widgets/icon-box/icon-box.php:378
+#: elementor-addons/widgets/icon-box/icon-box.php:493
+#: elementor-addons/widgets/icon-box/icon-box.php:566
+#: elementor-addons/widgets/icon-box/icon-box.php:710
+#: elementor-addons/widgets/menu/mega-menu.php:237
+#: elementor-addons/widgets/menu/nav-menu.php:216
+#: elementor-addons/widgets/offcanvas/offcanvas.php:180
+#: elementor-addons/widgets/offcanvas/offcanvas.php:288
+#: elementor-addons/widgets/portfolio/portfolio.php:1065
+#: elementor-addons/widgets/portfolio/portfolio.php:1215
+#: elementor-addons/widgets/portfolio/portfolio.php:1289
+#: elementor-addons/widgets/portfolio/portfolio.php:1450
+#: elementor-addons/widgets/portfolio/portfolio.php:1621
+#: elementor-addons/widgets/portfolio/portfolio.php:1748
+#: elementor-addons/widgets/search/search.php:131
+#: elementor-addons/widgets/tab/tab.php:234
+#: elementor-addons/widgets/tab/tab.php:341
+#: elementor-addons/widgets/tab/tab.php:449
+#: elementor-addons/widgets/tab/tab.php:503
+#: elementor-addons/widgets/tab/tab.php:583
+#: elementor-addons/widgets/tab/tab.php:705
+#: elementor-addons/widgets/team/team.php:244
+#: elementor-addons/widgets/team/team.php:419
+#: elementor-addons/widgets/team/team.php:525
+#: elementor-addons/widgets/team/team.php:598
+#: elementor-addons/widgets/testimonial/testimonial.php:446
+#: elementor-addons/widgets/testimonial/testimonial.php:685
+#: elementor-addons/widgets/testimonial/testimonial.php:846
+#: elementor-addons/widgets/video/video-icon.php:120
+#: elementor-addons/widgets/woo/cart.php:122
+msgid "Background"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:56
+#: elementor-addons/widgets/accordion/accordion.php:267
+#: elementor-addons/widgets/accordion/accordion.php:352
+#: elementor-addons/widgets/blog/blog.php:645
+#: elementor-addons/widgets/blog/blog.php:795
+#: elementor-addons/widgets/blog/blog.php:1011
+#: elementor-addons/widgets/blog/blog.php:1198
+#: elementor-addons/widgets/button/button.php:218
+#: elementor-addons/widgets/contact-form/contact-form7.php:83
+#: elementor-addons/widgets/contact-form/contact-form7.php:300
+#: elementor-addons/widgets/contact-form/contact-form7.php:441
+#: elementor-addons/widgets/contact-form/contact-form7.php:528
+#: elementor-addons/widgets/contact-form/contact-form7.php:631
+#: elementor-addons/widgets/custom-design/banner-one.php:364
+#: elementor-addons/widgets/custom-design/banner-two.php:464
+#: elementor-addons/widgets/custom-design/image.php:280
+#: elementor-addons/widgets/icon-box/icon-box.php:360
+#: elementor-addons/widgets/icon-box/icon-box.php:681
+#: elementor-addons/widgets/offcanvas/offcanvas.php:258
+#: elementor-addons/widgets/portfolio/portfolio.php:856
+#: elementor-addons/widgets/tab/tab.php:274
+#: elementor-addons/widgets/tab/tab.php:776
+#: elementor-addons/widgets/team/team.php:320
+#: elementor-addons/widgets/testimonial/testimonial.php:513
+msgid "Padding"
+msgstr ""
+
+#: elementor-addons/helper/controls.php:71
+#: elementor-addons/widgets/contact-form/contact-form7.php:679
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor-addons/helper/custom-icon.php:103
+msgid "Bantec - Premium"
+msgstr ""
+
+#: elementor-addons/helper/elements-manager.php:27
+msgid "Bantec Toolkit"
+msgstr ""
+
+#: elementor-addons/helper/elements-manager.php:35
+msgid "Custom Design"
+msgstr ""
+
+#: elementor-addons/helper/elements-manager.php:47
+#: elementor-addons/helper/elements-manager.php:49
+msgid "Comment"
+msgstr ""
+
+#: elementor-addons/helper/elements-manager.php:51
+msgid "Comments"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:20
+msgid "Accordion - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:44
+#: elementor-addons/widgets/accordion/accordion.php:62
+#: elementor-addons/widgets/accordion/accordion.php:282
+#: elementor-addons/widgets/blog/blog.php:894
+#: elementor-addons/widgets/custom-design/banner-one.php:77
+#: elementor-addons/widgets/custom-design/banner-one.php:170
+#: elementor-addons/widgets/custom-design/banner-one.php:224
+#: elementor-addons/widgets/custom-design/banner-two.php:86
+#: elementor-addons/widgets/custom-design/banner-two.php:292
+#: elementor-addons/widgets/icon-box/icon-box.php:737
+#: elementor-addons/widgets/portfolio/portfolio.php:702
+#: elementor-addons/widgets/skills/skills-bar.php:127
+#: elementor-addons/widgets/slide/text-slide.php:179
+#: elementor-addons/widgets/tab/tab.php:87
+#: elementor-addons/widgets/tab/tab.php:96
+#: elementor-addons/widgets/team/team.php:180
+msgid "Content"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:71
+msgid "Accordion Items"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:76
+msgid "Accordion #1"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:77
+#: elementor-addons/widgets/accordion/accordion.php:81
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec."
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:80
+msgid "Accordion #2"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:92
+#: elementor-addons/widgets/blog/blog.php:362
+#: elementor-addons/widgets/portfolio/portfolio.php:490
+#: elementor-addons/widgets/skills/skills-bar.php:347
+msgid "Item"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:107
+#: elementor-addons/widgets/accordion/accordion.php:221
+#: elementor-addons/widgets/accordion/accordion.php:306
+#: elementor-addons/widgets/blog/blog.php:817
+#: elementor-addons/widgets/blog/blog.php:954
+#: elementor-addons/widgets/blog/blog.php:1141
+#: elementor-addons/widgets/blog/blog.php:1392
+#: elementor-addons/widgets/button/button.php:161
+#: elementor-addons/widgets/custom-design/banner-one.php:307
+#: elementor-addons/widgets/custom-design/banner-two.php:407
+#: elementor-addons/widgets/custom-design/image.php:217
+#: elementor-addons/widgets/icon-box/icon-box.php:303
+#: elementor-addons/widgets/icon-box/icon-box.php:431
+#: elementor-addons/widgets/icon-box/icon-box.php:613
+#: elementor-addons/widgets/menu/nav-menu.php:233
+#: elementor-addons/widgets/offcanvas/offcanvas.php:334
+#: elementor-addons/widgets/portfolio/portfolio.php:799
+#: elementor-addons/widgets/portfolio/portfolio.php:1130
+#: elementor-addons/widgets/portfolio/portfolio.php:1631
+#: elementor-addons/widgets/tab/tab.php:285
+#: elementor-addons/widgets/tab/tab.php:629
+#: elementor-addons/widgets/tab/tab.php:787
+#: elementor-addons/widgets/team/team.php:263
+#: elementor-addons/widgets/testimonial/testimonial.php:456
+msgid "Border Type"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:110
+#: elementor-addons/widgets/accordion/accordion.php:224
+#: elementor-addons/widgets/accordion/accordion.php:309
+#: elementor-addons/widgets/blog/blog.php:820
+#: elementor-addons/widgets/blog/blog.php:957
+#: elementor-addons/widgets/blog/blog.php:1144
+#: elementor-addons/widgets/blog/blog.php:1395
+#: elementor-addons/widgets/button/button.php:164
+#: elementor-addons/widgets/custom-design/banner-one.php:310
+#: elementor-addons/widgets/custom-design/banner-two.php:410
+#: elementor-addons/widgets/custom-design/image.php:220
+#: elementor-addons/widgets/icon-box/icon-box.php:306
+#: elementor-addons/widgets/icon-box/icon-box.php:434
+#: elementor-addons/widgets/icon-box/icon-box.php:616
+#: elementor-addons/widgets/menu/nav-menu.php:236
+#: elementor-addons/widgets/offcanvas/offcanvas.php:337
+#: elementor-addons/widgets/portfolio/portfolio.php:802
+#: elementor-addons/widgets/portfolio/portfolio.php:1133
+#: elementor-addons/widgets/portfolio/portfolio.php:1634
+#: elementor-addons/widgets/tab/tab.php:288
+#: elementor-addons/widgets/tab/tab.php:632
+#: elementor-addons/widgets/tab/tab.php:790
+#: elementor-addons/widgets/team/team.php:266
+#: elementor-addons/widgets/testimonial/testimonial.php:459
+#: lib/codestar-framework/fields/border/border.php:59
+#: lib/codestar-framework/fields/typography/typography.php:199
+#: lib/codestar-framework/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:111
+#: elementor-addons/widgets/accordion/accordion.php:225
+#: elementor-addons/widgets/accordion/accordion.php:310
+#: elementor-addons/widgets/blog/blog.php:821
+#: elementor-addons/widgets/blog/blog.php:958
+#: elementor-addons/widgets/blog/blog.php:1145
+#: elementor-addons/widgets/blog/blog.php:1396
+#: elementor-addons/widgets/button/button.php:165
+#: elementor-addons/widgets/custom-design/banner-one.php:311
+#: elementor-addons/widgets/custom-design/banner-two.php:411
+#: elementor-addons/widgets/custom-design/image.php:221
+#: elementor-addons/widgets/icon-box/icon-box.php:307
+#: elementor-addons/widgets/icon-box/icon-box.php:435
+#: elementor-addons/widgets/icon-box/icon-box.php:617
+#: elementor-addons/widgets/menu/nav-menu.php:237
+#: elementor-addons/widgets/offcanvas/offcanvas.php:338
+#: elementor-addons/widgets/portfolio/portfolio.php:803
+#: elementor-addons/widgets/portfolio/portfolio.php:1134
+#: elementor-addons/widgets/portfolio/portfolio.php:1635
+#: elementor-addons/widgets/tab/tab.php:289
+#: elementor-addons/widgets/tab/tab.php:633
+#: elementor-addons/widgets/tab/tab.php:791
+#: elementor-addons/widgets/team/team.php:267
+#: elementor-addons/widgets/testimonial/testimonial.php:460
+#: lib/codestar-framework/fields/border/border.php:51
+#: lib/codestar-framework/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:112
+#: elementor-addons/widgets/accordion/accordion.php:226
+#: elementor-addons/widgets/accordion/accordion.php:311
+#: elementor-addons/widgets/blog/blog.php:822
+#: elementor-addons/widgets/blog/blog.php:959
+#: elementor-addons/widgets/blog/blog.php:1146
+#: elementor-addons/widgets/blog/blog.php:1397
+#: elementor-addons/widgets/button/button.php:166
+#: elementor-addons/widgets/custom-design/banner-one.php:312
+#: elementor-addons/widgets/custom-design/banner-two.php:412
+#: elementor-addons/widgets/custom-design/image.php:222
+#: elementor-addons/widgets/icon-box/icon-box.php:308
+#: elementor-addons/widgets/icon-box/icon-box.php:436
+#: elementor-addons/widgets/icon-box/icon-box.php:618
+#: elementor-addons/widgets/menu/nav-menu.php:238
+#: elementor-addons/widgets/offcanvas/offcanvas.php:339
+#: elementor-addons/widgets/portfolio/portfolio.php:804
+#: elementor-addons/widgets/portfolio/portfolio.php:1135
+#: elementor-addons/widgets/portfolio/portfolio.php:1636
+#: elementor-addons/widgets/tab/tab.php:290
+#: elementor-addons/widgets/tab/tab.php:634
+#: elementor-addons/widgets/tab/tab.php:792
+#: elementor-addons/widgets/team/team.php:268
+#: elementor-addons/widgets/testimonial/testimonial.php:461
+#: lib/codestar-framework/fields/border/border.php:54
+#: lib/codestar-framework/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:113
+#: elementor-addons/widgets/accordion/accordion.php:227
+#: elementor-addons/widgets/accordion/accordion.php:312
+#: elementor-addons/widgets/blog/blog.php:823
+#: elementor-addons/widgets/blog/blog.php:960
+#: elementor-addons/widgets/blog/blog.php:1147
+#: elementor-addons/widgets/blog/blog.php:1398
+#: elementor-addons/widgets/button/button.php:167
+#: elementor-addons/widgets/custom-design/banner-one.php:313
+#: elementor-addons/widgets/custom-design/banner-two.php:413
+#: elementor-addons/widgets/custom-design/image.php:223
+#: elementor-addons/widgets/icon-box/icon-box.php:309
+#: elementor-addons/widgets/icon-box/icon-box.php:437
+#: elementor-addons/widgets/icon-box/icon-box.php:619
+#: elementor-addons/widgets/menu/nav-menu.php:239
+#: elementor-addons/widgets/offcanvas/offcanvas.php:340
+#: elementor-addons/widgets/portfolio/portfolio.php:805
+#: elementor-addons/widgets/portfolio/portfolio.php:1136
+#: elementor-addons/widgets/portfolio/portfolio.php:1637
+#: elementor-addons/widgets/tab/tab.php:291
+#: elementor-addons/widgets/tab/tab.php:635
+#: elementor-addons/widgets/tab/tab.php:793
+#: elementor-addons/widgets/team/team.php:269
+#: elementor-addons/widgets/testimonial/testimonial.php:462
+#: lib/codestar-framework/fields/border/border.php:53
+#: lib/codestar-framework/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:114
+#: elementor-addons/widgets/accordion/accordion.php:228
+#: elementor-addons/widgets/accordion/accordion.php:313
+#: elementor-addons/widgets/blog/blog.php:824
+#: elementor-addons/widgets/blog/blog.php:961
+#: elementor-addons/widgets/blog/blog.php:1148
+#: elementor-addons/widgets/blog/blog.php:1399
+#: elementor-addons/widgets/button/button.php:168
+#: elementor-addons/widgets/custom-design/banner-one.php:314
+#: elementor-addons/widgets/custom-design/banner-two.php:414
+#: elementor-addons/widgets/custom-design/image.php:224
+#: elementor-addons/widgets/icon-box/icon-box.php:310
+#: elementor-addons/widgets/icon-box/icon-box.php:438
+#: elementor-addons/widgets/icon-box/icon-box.php:620
+#: elementor-addons/widgets/menu/nav-menu.php:240
+#: elementor-addons/widgets/offcanvas/offcanvas.php:341
+#: elementor-addons/widgets/portfolio/portfolio.php:806
+#: elementor-addons/widgets/portfolio/portfolio.php:1137
+#: elementor-addons/widgets/portfolio/portfolio.php:1638
+#: elementor-addons/widgets/tab/tab.php:292
+#: elementor-addons/widgets/tab/tab.php:636
+#: elementor-addons/widgets/tab/tab.php:794
+#: elementor-addons/widgets/team/team.php:270
+#: elementor-addons/widgets/testimonial/testimonial.php:463
+#: lib/codestar-framework/fields/border/border.php:52
+#: lib/codestar-framework/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:115
+#: elementor-addons/widgets/accordion/accordion.php:229
+#: elementor-addons/widgets/accordion/accordion.php:314
+#: elementor-addons/widgets/blog/blog.php:825
+#: elementor-addons/widgets/blog/blog.php:962
+#: elementor-addons/widgets/blog/blog.php:1149
+#: elementor-addons/widgets/blog/blog.php:1400
+#: elementor-addons/widgets/button/button.php:169
+#: elementor-addons/widgets/custom-design/banner-one.php:315
+#: elementor-addons/widgets/custom-design/banner-two.php:415
+#: elementor-addons/widgets/custom-design/image.php:225
+#: elementor-addons/widgets/icon-box/icon-box.php:311
+#: elementor-addons/widgets/icon-box/icon-box.php:439
+#: elementor-addons/widgets/icon-box/icon-box.php:621
+#: elementor-addons/widgets/menu/nav-menu.php:241
+#: elementor-addons/widgets/offcanvas/offcanvas.php:342
+#: elementor-addons/widgets/portfolio/portfolio.php:807
+#: elementor-addons/widgets/portfolio/portfolio.php:1138
+#: elementor-addons/widgets/portfolio/portfolio.php:1639
+#: elementor-addons/widgets/tab/tab.php:293
+#: elementor-addons/widgets/tab/tab.php:637
+#: elementor-addons/widgets/tab/tab.php:795
+#: elementor-addons/widgets/team/team.php:271
+#: elementor-addons/widgets/testimonial/testimonial.php:464
+#: lib/codestar-framework/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:125
+#: elementor-addons/widgets/accordion/accordion.php:239
+#: elementor-addons/widgets/accordion/accordion.php:324
+#: elementor-addons/widgets/blog/blog.php:835
+#: elementor-addons/widgets/blog/blog.php:972
+#: elementor-addons/widgets/blog/blog.php:1159
+#: elementor-addons/widgets/blog/blog.php:1411
+#: elementor-addons/widgets/button/button.php:179
+#: elementor-addons/widgets/custom-design/banner-one.php:325
+#: elementor-addons/widgets/custom-design/banner-two.php:425
+#: elementor-addons/widgets/custom-design/image.php:238
+#: elementor-addons/widgets/icon-box/icon-box.php:321
+#: elementor-addons/widgets/icon-box/icon-box.php:449
+#: elementor-addons/widgets/icon-box/icon-box.php:631
+#: elementor-addons/widgets/menu/nav-menu.php:251
+#: elementor-addons/widgets/offcanvas/offcanvas.php:352
+#: elementor-addons/widgets/portfolio/portfolio.php:817
+#: elementor-addons/widgets/portfolio/portfolio.php:1148
+#: elementor-addons/widgets/portfolio/portfolio.php:1650
+#: elementor-addons/widgets/tab/tab.php:303
+#: elementor-addons/widgets/tab/tab.php:647
+#: elementor-addons/widgets/tab/tab.php:805
+#: elementor-addons/widgets/team/team.php:281
+#: elementor-addons/widgets/testimonial/testimonial.php:474
+msgid "Border Width"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:139
+#: elementor-addons/widgets/accordion/accordion.php:253
+#: elementor-addons/widgets/accordion/accordion.php:338
+#: elementor-addons/widgets/blog/blog.php:849
+#: elementor-addons/widgets/blog/blog.php:986
+#: elementor-addons/widgets/blog/blog.php:1173
+#: elementor-addons/widgets/blog/blog.php:1426
+#: elementor-addons/widgets/button/button.php:193
+#: elementor-addons/widgets/custom-design/banner-one.php:339
+#: elementor-addons/widgets/custom-design/banner-two.php:439
+#: elementor-addons/widgets/custom-design/image.php:252
+#: elementor-addons/widgets/icon-box/icon-box.php:335
+#: elementor-addons/widgets/icon-box/icon-box.php:388
+#: elementor-addons/widgets/icon-box/icon-box.php:463
+#: elementor-addons/widgets/icon-box/icon-box.php:645
+#: elementor-addons/widgets/icon-box/icon-box.php:720
+#: elementor-addons/widgets/menu/mega-menu.php:278
+#: elementor-addons/widgets/menu/nav-menu.php:206
+#: elementor-addons/widgets/menu/nav-menu.php:265
+#: elementor-addons/widgets/offcanvas/offcanvas.php:366
+#: elementor-addons/widgets/portfolio/portfolio.php:831
+#: elementor-addons/widgets/portfolio/portfolio.php:1162
+#: elementor-addons/widgets/portfolio/portfolio.php:1225
+#: elementor-addons/widgets/portfolio/portfolio.php:1665
+#: elementor-addons/widgets/tab/tab.php:317
+#: elementor-addons/widgets/tab/tab.php:459
+#: elementor-addons/widgets/tab/tab.php:661
+#: elementor-addons/widgets/tab/tab.php:819
+#: elementor-addons/widgets/team/team.php:295
+#: elementor-addons/widgets/testimonial/testimonial.php:488
+msgid "Border Color"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:162
+#: elementor-addons/widgets/blog/blog.php:526
+#: elementor-addons/widgets/blog/blog.php:754
+#: elementor-addons/widgets/blog/blog.php:1231
+#: elementor-addons/widgets/blog/blog.php:1453
+#: elementor-addons/widgets/button/button.php:240
+#: elementor-addons/widgets/custom-design/banner-one.php:383
+#: elementor-addons/widgets/custom-design/banner-two.php:248
+#: elementor-addons/widgets/custom-design/banner-two.php:340
+#: elementor-addons/widgets/custom-design/banner-two.php:483
+#: elementor-addons/widgets/icon-box/icon-box.php:973
+#: elementor-addons/widgets/portfolio/portfolio.php:540
+#: elementor-addons/widgets/portfolio/portfolio.php:1379
+#: elementor-addons/widgets/portfolio/portfolio.php:1518
+#: elementor-addons/widgets/portfolio/portfolio.php:1692
+#: elementor-addons/widgets/skills/skills-bar.php:167
+#: elementor-addons/widgets/skills/skills-bar.php:357
+#: elementor-addons/widgets/slide/text-slide.php:298
+#: elementor-addons/widgets/tab/tab.php:744
+#: elementor-addons/widgets/team/team.php:429
+#: elementor-addons/widgets/testimonial/testimonial.php:421
+#: elementor-addons/widgets/testimonial/testimonial.php:775
+#: elementor-addons/widgets/testimonial/testimonial.php:914
+msgid "Gap"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:185
+#: elementor-addons/widgets/blog/blog.php:485
+#: elementor-addons/widgets/blog/blog.php:667
+#: elementor-addons/widgets/blog/blog.php:862
+#: elementor-addons/widgets/blog/blog.php:1000
+#: elementor-addons/widgets/blog/blog.php:1186
+#: elementor-addons/widgets/blog/blog.php:1440
+#: elementor-addons/widgets/button/button.php:206
+#: elementor-addons/widgets/contact-form/contact-form7.php:282
+#: elementor-addons/widgets/contact-form/contact-form7.php:429
+#: elementor-addons/widgets/contact-form/contact-form7.php:516
+#: elementor-addons/widgets/contact-form/contact-form7.php:666
+#: elementor-addons/widgets/custom-design/banner-one.php:352
+#: elementor-addons/widgets/custom-design/banner-two.php:452
+#: elementor-addons/widgets/custom-design/banner-two.php:680
+#: elementor-addons/widgets/custom-design/image.php:265
+#: elementor-addons/widgets/icon-box/icon-box.php:348
+#: elementor-addons/widgets/icon-box/icon-box.php:658
+#: elementor-addons/widgets/offcanvas/offcanvas.php:379
+#: elementor-addons/widgets/portfolio/portfolio.php:584
+#: elementor-addons/widgets/portfolio/portfolio.php:844
+#: elementor-addons/widgets/portfolio/portfolio.php:1175
+#: elementor-addons/widgets/portfolio/portfolio.php:1419
+#: elementor-addons/widgets/portfolio/portfolio.php:1552
+#: elementor-addons/widgets/portfolio/portfolio.php:1679
+#: elementor-addons/widgets/tab/tab.php:263
+#: elementor-addons/widgets/tab/tab.php:674
+#: elementor-addons/widgets/tab/tab.php:765
+#: elementor-addons/widgets/team/team.php:169
+#: elementor-addons/widgets/team/team.php:309
+#: elementor-addons/widgets/team/team.php:497
+#: elementor-addons/widgets/testimonial/testimonial.php:501
+#: elementor-addons/widgets/testimonial/testimonial.php:815
+#: elementor-addons/widgets/testimonial/testimonial.php:948
+#: elementor-addons/widgets/woo/cart.php:133
+msgid "Border Radius"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:211
+#: elementor-addons/widgets/accordion/accordion.php:296
+#: elementor-addons/widgets/accordion/accordion.php:400
+#: elementor-addons/widgets/accordion/accordion.php:495
+#: elementor-addons/widgets/blog/blog.php:599
+#: elementor-addons/widgets/blog/blog.php:623
+#: elementor-addons/widgets/blog/blog.php:734
+#: elementor-addons/widgets/blog/blog.php:880
+#: elementor-addons/widgets/blog/blog.php:925
+#: elementor-addons/widgets/blog/blog.php:1039
+#: elementor-addons/widgets/blog/blog.php:1302
+#: elementor-addons/widgets/blog/blog.php:1498
+#: elementor-addons/widgets/custom-design/banner-one.php:214
+#: elementor-addons/widgets/custom-design/banner-one.php:240
+#: elementor-addons/widgets/custom-design/banner-one.php:444
+#: elementor-addons/widgets/custom-design/banner-two.php:202
+#: elementor-addons/widgets/custom-design/banner-two.php:238
+#: elementor-addons/widgets/custom-design/banner-two.php:308
+#: elementor-addons/widgets/custom-design/banner-two.php:544
+#: elementor-addons/widgets/custom-design/banner-two.php:586
+#: elementor-addons/widgets/custom-design/banner-two.php:719
+#: elementor-addons/widgets/icon-box/icon-box.php:483
+#: elementor-addons/widgets/icon-box/icon-box.php:555
+#: elementor-addons/widgets/icon-box/icon-box.php:699
+#: elementor-addons/widgets/icon-box/icon-box.php:793
+#: elementor-addons/widgets/icon-box/icon-box.php:818
+#: elementor-addons/widgets/icon-box/icon-box.php:882
+#: elementor-addons/widgets/icon-box/icon-box.php:910
+#: elementor-addons/widgets/icon-box/icon-box.php:952
+#: elementor-addons/widgets/icon-box/icon-box.php:1054
+#: elementor-addons/widgets/menu/mega-menu.php:136
+#: elementor-addons/widgets/menu/mega-menu.php:256
+#: elementor-addons/widgets/menu/nav-menu.php:128
+#: elementor-addons/widgets/menu/nav-menu.php:183
+#: elementor-addons/widgets/offcanvas/offcanvas.php:278
+#: elementor-addons/widgets/portfolio/portfolio.php:754
+#: elementor-addons/widgets/portfolio/portfolio.php:778
+#: elementor-addons/widgets/portfolio/portfolio.php:891
+#: elementor-addons/widgets/portfolio/portfolio.php:1055
+#: elementor-addons/widgets/portfolio/portfolio.php:1205
+#: elementor-addons/widgets/portfolio/portfolio.php:1278
+#: elementor-addons/widgets/portfolio/portfolio.php:1439
+#: elementor-addons/widgets/portfolio/portfolio.php:1485
+#: elementor-addons/widgets/portfolio/portfolio.php:1570
+#: elementor-addons/widgets/portfolio/portfolio.php:1737
+#: elementor-addons/widgets/skills/skills-bar.php:154
+#: elementor-addons/widgets/skills/skills-bar.php:219
+#: elementor-addons/widgets/slide/text-slide.php:341
+#: elementor-addons/widgets/slide/text-slide.php:376
+#: elementor-addons/widgets/tab/tab.php:476
+#: elementor-addons/widgets/tab/tab.php:493
+#: elementor-addons/widgets/tab/tab.php:538
+#: elementor-addons/widgets/tab/tab.php:573
+#: elementor-addons/widgets/team/team.php:210
+#: elementor-addons/widgets/team/team.php:234
+#: elementor-addons/widgets/team/team.php:348
+#: elementor-addons/widgets/team/team.php:408
+#: elementor-addons/widgets/team/team.php:515
+#: elementor-addons/widgets/team/team.php:588
+#: elementor-addons/widgets/testimonial/testimonial.php:549
+#: elementor-addons/widgets/testimonial/testimonial.php:576
+#: elementor-addons/widgets/testimonial/testimonial.php:603
+#: elementor-addons/widgets/testimonial/testimonial.php:674
+#: elementor-addons/widgets/testimonial/testimonial.php:835
+#: elementor-addons/widgets/testimonial/testimonial.php:881
+#: elementor-addons/widgets/testimonial/testimonial.php:966
+#: elementor-addons/widgets/video/video-icon.php:110
+#: elementor-addons/widgets/woo/cart.php:70
+#: elementor-addons/widgets/woo/cart.php:112
+#: lib/codestar-framework/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:365
+#: elementor-addons/widgets/button/button.php:85
+#: elementor-addons/widgets/icon-box/icon-box.php:154
+#: elementor-addons/widgets/icon-box/icon-box.php:539
+#: elementor-addons/widgets/menu/mega-menu.php:371
+#: elementor-addons/widgets/menu/nav-menu.php:360
+#: elementor-addons/widgets/offcanvas/offcanvas.php:77
+#: elementor-addons/widgets/portfolio/portfolio.php:275
+#: elementor-addons/widgets/portfolio/portfolio.php:1039
+#: elementor-addons/widgets/slide/text-slide.php:168
+#: elementor-addons/widgets/tab/tab.php:65
+#: elementor-addons/widgets/tab/tab.php:486
+#: elementor-addons/widgets/tab/tab.php:566
+#: elementor-addons/widgets/team/team.php:121
+#: elementor-addons/widgets/team/team.php:385
+#: elementor-addons/widgets/video/video-icon.php:57
+#: elementor-addons/widgets/woo/cart.php:50
+msgid "Icon"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:372
+#: elementor-addons/widgets/blog/blog.php:295
+#: elementor-addons/widgets/blog/blog.php:369
+#: elementor-addons/widgets/button/button.php:50
+#: elementor-addons/widgets/contact-form/contact-form7.php:119
+#: elementor-addons/widgets/icon-box/icon-box.php:104
+#: elementor-addons/widgets/icon-box/icon-box.php:412
+#: elementor-addons/widgets/icon-box/icon-box.php:744
+#: elementor-addons/widgets/logo/logo.php:77
+#: elementor-addons/widgets/menu/mega-menu.php:345
+#: elementor-addons/widgets/menu/nav-menu.php:334
+#: elementor-addons/widgets/portfolio/portfolio.php:420
+#: elementor-addons/widgets/portfolio/portfolio.php:462
+#: elementor-addons/widgets/portfolio/portfolio.php:497
+#: elementor-addons/widgets/portfolio/portfolio.php:972
+#: elementor-addons/widgets/search/search.php:68
+#: elementor-addons/widgets/tab/tab.php:190
+#: elementor-addons/widgets/testimonial/testimonial.php:290
+#: elementor-addons/widgets/testimonial/testimonial.php:332
+#: elementor-addons/widgets/video/video-icon.php:77
+msgid "Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:376
+#: elementor-addons/widgets/blog/blog.php:551
+#: elementor-addons/widgets/icon-box/icon-box.php:416
+msgid "Start"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:380
+#: elementor-addons/widgets/blog/blog.php:555
+#: elementor-addons/widgets/icon-box/icon-box.php:420
+msgid "End"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:394
+#: elementor-addons/widgets/blog/blog.php:689
+#: elementor-addons/widgets/blog/blog.php:904
+#: elementor-addons/widgets/blog/blog.php:1108
+#: elementor-addons/widgets/blog/blog.php:1358
+#: elementor-addons/widgets/button/button.php:135
+#: elementor-addons/widgets/contact-form/contact-form7.php:567
+#: elementor-addons/widgets/custom-design/banner-one.php:274
+#: elementor-addons/widgets/custom-design/banner-two.php:374
+#: elementor-addons/widgets/custom-design/banner-two.php:580
+#: elementor-addons/widgets/icon-box/icon-box.php:287
+#: elementor-addons/widgets/icon-box/icon-box.php:549
+#: elementor-addons/widgets/icon-box/icon-box.php:773
+#: elementor-addons/widgets/icon-box/icon-box.php:939
+#: elementor-addons/widgets/portfolio/portfolio.php:568
+#: elementor-addons/widgets/portfolio/portfolio.php:734
+#: elementor-addons/widgets/portfolio/portfolio.php:1049
+#: elementor-addons/widgets/portfolio/portfolio.php:1272
+#: elementor-addons/widgets/portfolio/portfolio.php:1479
+#: elementor-addons/widgets/portfolio/portfolio.php:1597
+#: elementor-addons/widgets/tab/tab.php:228
+#: elementor-addons/widgets/team/team.php:190
+#: elementor-addons/widgets/team/team.php:402
+#: elementor-addons/widgets/testimonial/testimonial.php:668
+#: elementor-addons/widgets/testimonial/testimonial.php:875
+#: lib/codestar-framework/fields/background/background.php:270
+#: lib/codestar-framework/fields/link_color/link_color.php:36
+#: lib/codestar-framework/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:420
+#: elementor-addons/widgets/blog/blog.php:1252
+#: elementor-addons/widgets/button/button.php:261
+#: elementor-addons/widgets/custom-design/banner-one.php:401
+#: elementor-addons/widgets/custom-design/banner-two.php:501
+#: elementor-addons/widgets/icon-box/icon-box.php:576
+#: elementor-addons/widgets/icon-box/icon-box.php:994
+#: elementor-addons/widgets/offcanvas/offcanvas.php:298
+#: elementor-addons/widgets/portfolio/portfolio.php:1075
+#: elementor-addons/widgets/tab/tab.php:593
+#: elementor-addons/widgets/video/video-icon.php:141
+#: elementor-addons/widgets/woo/cart.php:80
+#: lib/codestar-framework/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:442
+#: elementor-addons/widgets/blog/blog.php:1471
+#: elementor-addons/widgets/custom-design/banner-two.php:270
+#: elementor-addons/widgets/custom-design/banner-two.php:318
+#: elementor-addons/widgets/custom-design/banner-two.php:608
+#: elementor-addons/widgets/custom-design/image.php:140
+#: elementor-addons/widgets/icon-box/icon-box.php:503
+#: elementor-addons/widgets/icon-box/icon-box.php:595
+#: elementor-addons/widgets/icon-box/icon-box.php:828
+#: elementor-addons/widgets/logo/logo.php:157
+#: elementor-addons/widgets/offcanvas/offcanvas.php:218
+#: elementor-addons/widgets/offcanvas/offcanvas.php:316
+#: elementor-addons/widgets/portfolio/portfolio.php:1093
+#: elementor-addons/widgets/portfolio/portfolio.php:1300
+#: elementor-addons/widgets/portfolio/portfolio.php:1495
+#: elementor-addons/widgets/portfolio/portfolio.php:1710
+#: elementor-addons/widgets/skills/skills-bar.php:320
+#: elementor-addons/widgets/tab/tab.php:548
+#: elementor-addons/widgets/tab/tab.php:611
+#: elementor-addons/widgets/tab/tab.php:715
+#: elementor-addons/widgets/team/team.php:452
+#: elementor-addons/widgets/team/team.php:535
+#: elementor-addons/widgets/testimonial/testimonial.php:696
+#: elementor-addons/widgets/testimonial/testimonial.php:891
+#: elementor-addons/widgets/video/video-icon.php:160
+#: elementor-addons/widgets/woo/cart.php:143
+msgid "Max Width"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:464
+msgid "Spacing"
+msgstr ""
+
+#: elementor-addons/widgets/accordion/accordion.php:489
+#: elementor-addons/widgets/blog/blog.php:1492
+#: elementor-addons/widgets/portfolio/portfolio.php:659
+#: elementor-addons/widgets/portfolio/portfolio.php:1564
+#: elementor-addons/widgets/portfolio/portfolio.php:1731
+#: elementor-addons/widgets/tab/tab.php:443
+#: elementor-addons/widgets/testimonial/testimonial.php:960
+#: lib/codestar-framework/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:23
+msgid "Blog - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:48
+msgid "Style & Column"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:54
+#: elementor-addons/widgets/portfolio/portfolio.php:58
+#: elementor-addons/widgets/testimonial/testimonial.php:60
+msgid "Select a Style"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:57
+msgid "Blog Style 01"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:66
+#: elementor-addons/widgets/portfolio/portfolio.php:70
+#: elementor-addons/widgets/testimonial/testimonial.php:73
+msgid "Columns On Desktop"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:69
+#: elementor-addons/widgets/blog/blog.php:85
+#: elementor-addons/widgets/blog/blog.php:100
+#: elementor-addons/widgets/portfolio/portfolio.php:73
+#: elementor-addons/widgets/portfolio/portfolio.php:92
+#: elementor-addons/widgets/portfolio/portfolio.php:110
+#: elementor-addons/widgets/testimonial/testimonial.php:76
+#: elementor-addons/widgets/testimonial/testimonial.php:95
+#: elementor-addons/widgets/testimonial/testimonial.php:113
+msgid "Column 2"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:70
+#: elementor-addons/widgets/blog/blog.php:86
+#: elementor-addons/widgets/blog/blog.php:101
+#: elementor-addons/widgets/portfolio/portfolio.php:74
+#: elementor-addons/widgets/portfolio/portfolio.php:93
+#: elementor-addons/widgets/portfolio/portfolio.php:111
+#: elementor-addons/widgets/testimonial/testimonial.php:77
+#: elementor-addons/widgets/testimonial/testimonial.php:96
+#: elementor-addons/widgets/testimonial/testimonial.php:114
+msgid "Column 3"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:71
+#: elementor-addons/widgets/portfolio/portfolio.php:75
+#: elementor-addons/widgets/testimonial/testimonial.php:78
+msgid "Column 4"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:72
+#: elementor-addons/widgets/portfolio/portfolio.php:76
+#: elementor-addons/widgets/testimonial/testimonial.php:79
+msgid "Column 5"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:81
+#: elementor-addons/widgets/portfolio/portfolio.php:88
+#: elementor-addons/widgets/testimonial/testimonial.php:91
+msgid "Columns On Tablet"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:84
+#: elementor-addons/widgets/blog/blog.php:99
+#: elementor-addons/widgets/portfolio/portfolio.php:91
+#: elementor-addons/widgets/portfolio/portfolio.php:109
+#: elementor-addons/widgets/testimonial/testimonial.php:94
+#: elementor-addons/widgets/testimonial/testimonial.php:112
+msgid "Column 1"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:96
+#: elementor-addons/widgets/portfolio/portfolio.php:106
+#: elementor-addons/widgets/testimonial/testimonial.php:109
+msgid "Columns On Mobile"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:110
+msgid "Colum Gap"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:130
+msgid "Blog Query"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:136
+msgid "Number Of Posts"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:155
+msgid "Content Word Limit"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:174
+#: elementor-addons/widgets/portfolio/portfolio.php:372
+msgid "Categories"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:184
+msgid "Blog Button"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:186
+#: elementor-addons/widgets/button/button.php:78
+#: elementor-addons/widgets/custom-design/banner-one.php:111
+#: elementor-addons/widgets/custom-design/banner-one.php:120
+#: elementor-addons/widgets/custom-design/banner-two.php:121
+#: elementor-addons/widgets/custom-design/banner-two.php:131
+#: elementor-addons/widgets/icon-box/icon-box.php:221
+msgid "Read More"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:193
+#: elementor-addons/widgets/icon-box/icon-box.php:247
+msgid "Button Icon"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:203
+#: elementor-addons/widgets/button/button.php:92
+#: elementor-addons/widgets/icon-box/icon-box.php:52
+#: elementor-addons/widgets/icon-box/icon-box.php:258
+#: elementor-addons/widgets/portfolio/portfolio.php:286
+#: elementor-addons/widgets/tab/tab.php:138
+msgid "Icon Position"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:207
+#: elementor-addons/widgets/button/button.php:96
+#: elementor-addons/widgets/icon-box/icon-box.php:262
+msgid "Before"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:208
+#: elementor-addons/widgets/button/button.php:97
+#: elementor-addons/widgets/icon-box/icon-box.php:263
+msgid "After"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:221
+msgid "Settings"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:227
+msgid "Show Date"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:239
+msgid "Show Username"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:251
+msgid "Show Comment"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:265
+#: elementor-addons/widgets/blog/blog.php:1345
+#: elementor-addons/widgets/portfolio/portfolio.php:939
+#: elementor-addons/widgets/portfolio/portfolio.php:1584
+msgid "Pagination"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:272
+#: elementor-addons/widgets/portfolio/portfolio.php:949
+msgid "Show"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:299
+#: elementor-addons/widgets/blog/blog.php:373
+#: elementor-addons/widgets/blog/blog.php:398
+#: elementor-addons/widgets/button/button.php:54
+#: elementor-addons/widgets/contact-form/contact-form7.php:123
+#: elementor-addons/widgets/icon-box/icon-box.php:56
+#: elementor-addons/widgets/icon-box/icon-box.php:108
+#: elementor-addons/widgets/icon-box/icon-box.php:748
+#: elementor-addons/widgets/logo/logo.php:81
+#: elementor-addons/widgets/menu/mega-menu.php:106
+#: elementor-addons/widgets/menu/mega-menu.php:349
+#: elementor-addons/widgets/menu/nav-menu.php:99
+#: elementor-addons/widgets/menu/nav-menu.php:338
+#: elementor-addons/widgets/offcanvas/offcanvas.php:55
+#: elementor-addons/widgets/portfolio/portfolio.php:290
+#: elementor-addons/widgets/portfolio/portfolio.php:424
+#: elementor-addons/widgets/portfolio/portfolio.php:466
+#: elementor-addons/widgets/portfolio/portfolio.php:501
+#: elementor-addons/widgets/portfolio/portfolio.php:976
+#: elementor-addons/widgets/search/search.php:72
+#: elementor-addons/widgets/tab/tab.php:142
+#: elementor-addons/widgets/tab/tab.php:194
+#: elementor-addons/widgets/testimonial/testimonial.php:294
+#: elementor-addons/widgets/testimonial/testimonial.php:336
+#: elementor-addons/widgets/video/video-icon.php:81
+#: lib/codestar-framework/fields/typography/typography.php:171
+msgid "Left"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:303
+#: elementor-addons/widgets/blog/blog.php:377
+#: elementor-addons/widgets/button/button.php:58
+#: elementor-addons/widgets/contact-form/contact-form7.php:127
+#: elementor-addons/widgets/icon-box/icon-box.php:60
+#: elementor-addons/widgets/icon-box/icon-box.php:112
+#: elementor-addons/widgets/icon-box/icon-box.php:752
+#: elementor-addons/widgets/logo/logo.php:85
+#: elementor-addons/widgets/menu/mega-menu.php:110
+#: elementor-addons/widgets/menu/mega-menu.php:353
+#: elementor-addons/widgets/menu/nav-menu.php:103
+#: elementor-addons/widgets/menu/nav-menu.php:342
+#: elementor-addons/widgets/offcanvas/offcanvas.php:59
+#: elementor-addons/widgets/portfolio/portfolio.php:428
+#: elementor-addons/widgets/portfolio/portfolio.php:470
+#: elementor-addons/widgets/portfolio/portfolio.php:505
+#: elementor-addons/widgets/portfolio/portfolio.php:980
+#: elementor-addons/widgets/search/search.php:76
+#: elementor-addons/widgets/tab/tab.php:198
+#: elementor-addons/widgets/testimonial/testimonial.php:298
+#: elementor-addons/widgets/testimonial/testimonial.php:340
+#: elementor-addons/widgets/video/video-icon.php:85
+#: lib/codestar-framework/fields/typography/typography.php:172
+msgid "Center"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:307
+#: elementor-addons/widgets/blog/blog.php:381
+#: elementor-addons/widgets/blog/blog.php:406
+#: elementor-addons/widgets/button/button.php:62
+#: elementor-addons/widgets/contact-form/contact-form7.php:131
+#: elementor-addons/widgets/icon-box/icon-box.php:64
+#: elementor-addons/widgets/icon-box/icon-box.php:116
+#: elementor-addons/widgets/icon-box/icon-box.php:756
+#: elementor-addons/widgets/logo/logo.php:89
+#: elementor-addons/widgets/menu/mega-menu.php:114
+#: elementor-addons/widgets/menu/mega-menu.php:357
+#: elementor-addons/widgets/menu/nav-menu.php:107
+#: elementor-addons/widgets/menu/nav-menu.php:346
+#: elementor-addons/widgets/offcanvas/offcanvas.php:63
+#: elementor-addons/widgets/portfolio/portfolio.php:298
+#: elementor-addons/widgets/portfolio/portfolio.php:432
+#: elementor-addons/widgets/portfolio/portfolio.php:474
+#: elementor-addons/widgets/portfolio/portfolio.php:509
+#: elementor-addons/widgets/portfolio/portfolio.php:984
+#: elementor-addons/widgets/search/search.php:80
+#: elementor-addons/widgets/tab/tab.php:202
+#: elementor-addons/widgets/testimonial/testimonial.php:302
+#: elementor-addons/widgets/testimonial/testimonial.php:344
+#: elementor-addons/widgets/video/video-icon.php:89
+#: lib/codestar-framework/fields/typography/typography.php:173
+msgid "Right"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:334
+#: elementor-addons/widgets/portfolio/portfolio.php:1011
+#: elementor-addons/widgets/slide/text-slide.php:422
+msgid "Space"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:394
+msgid "Image Position"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:402
+#: elementor-addons/widgets/blog/blog.php:570
+#: elementor-addons/widgets/icon-box/icon-box.php:82
+#: elementor-addons/widgets/portfolio/portfolio.php:294
+#: elementor-addons/widgets/portfolio/portfolio.php:320
+#: elementor-addons/widgets/portfolio/portfolio.php:409
+#: elementor-addons/widgets/tab/tab.php:146
+#: elementor-addons/widgets/tab/tab.php:165
+#: elementor-addons/widgets/testimonial/testimonial.php:279
+msgid "Top"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:420
+#: elementor-addons/widgets/portfolio/portfolio.php:577
+#: elementor-addons/widgets/slide/text-slide.php:111
+#: elementor-addons/widgets/team/team.php:161
+msgid "Image"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:427
+msgid "Image Width"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:445
+#: elementor-addons/widgets/contact-form/contact-form7.php:159
+#: elementor-addons/widgets/contact-form/contact-form7.php:347
+#: elementor-addons/widgets/custom-design/image.php:167
+#: elementor-addons/widgets/logo/logo.php:192
+#: elementor-addons/widgets/offcanvas/offcanvas.php:236
+#: elementor-addons/widgets/portfolio/portfolio.php:616
+#: elementor-addons/widgets/skills/skills-bar.php:274
+#: elementor-addons/widgets/slide/text-slide.php:256
+#: elementor-addons/widgets/tab/tab.php:376
+msgid "Height"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:467
+msgid "Column Width"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:498
+msgid "Date & Month"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:508
+#: elementor-addons/widgets/blog/blog.php:695
+#: elementor-addons/widgets/portfolio/portfolio.php:709
+msgid "Layout"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:513
+#: elementor-addons/widgets/custom-design/image.php:200
+#: elementor-addons/widgets/portfolio/portfolio.php:641
+#: elementor-addons/widgets/slide/text-slide.php:284
+#: lib/codestar-framework/fields/typography/typography.php:119
+#: lib/codestar-framework/fields/typography/typography.php:132
+#: lib/codestar-framework/fields/typography/typography.php:145
+#: lib/codestar-framework/fields/typography/typography.php:160
+#: lib/codestar-framework/fields/typography/typography.php:176
+#: lib/codestar-framework/fields/typography/typography.php:189
+#: lib/codestar-framework/fields/typography/typography.php:203
+#: lib/codestar-framework/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:517
+#: elementor-addons/widgets/blog/blog.php:700
+#: elementor-addons/widgets/portfolio/portfolio.php:714
+msgid "Inline"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:547
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:566
+#: elementor-addons/widgets/icon-box/icon-box.php:78
+#: elementor-addons/widgets/portfolio/portfolio.php:316
+#: elementor-addons/widgets/tab/tab.php:161
+msgid "Vertical Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:574
+#: elementor-addons/widgets/icon-box/icon-box.php:90
+#: elementor-addons/widgets/portfolio/portfolio.php:302
+#: elementor-addons/widgets/portfolio/portfolio.php:328
+#: elementor-addons/widgets/portfolio/portfolio.php:411
+#: elementor-addons/widgets/tab/tab.php:173
+#: elementor-addons/widgets/testimonial/testimonial.php:281
+msgid "Bottom"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:585
+msgid "Date"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:609
+msgid "Month"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:656
+#: elementor-addons/widgets/blog/blog.php:807
+#: elementor-addons/widgets/blog/blog.php:1022
+#: elementor-addons/widgets/blog/blog.php:1209
+#: elementor-addons/widgets/contact-form/contact-form7.php:96
+#: elementor-addons/widgets/contact-form/contact-form7.php:319
+#: elementor-addons/widgets/contact-form/contact-form7.php:454
+#: elementor-addons/widgets/contact-form/contact-form7.php:541
+#: elementor-addons/widgets/contact-form/contact-form7.php:644
+#: elementor-addons/widgets/custom-design/banner-one.php:251
+#: elementor-addons/widgets/icon-box/icon-box.php:526
+#: elementor-addons/widgets/icon-box/icon-box.php:670
+#: elementor-addons/widgets/icon-box/icon-box.php:846
+#: elementor-addons/widgets/portfolio/portfolio.php:867
+#: elementor-addons/widgets/portfolio/portfolio.php:1187
+#: elementor-addons/widgets/portfolio/portfolio.php:1404
+#: elementor-addons/widgets/portfolio/portfolio.php:1540
+#: elementor-addons/widgets/tab/tab.php:685
+#: elementor-addons/widgets/team/team.php:331
+#: elementor-addons/widgets/testimonial/testimonial.php:613
+#: elementor-addons/widgets/testimonial/testimonial.php:800
+#: elementor-addons/widgets/testimonial/testimonial.php:936
+msgid "Margin"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:679
+msgid "Meta"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:704
+msgid "Block"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:744
+#: elementor-addons/widgets/offcanvas/offcanvas.php:153
+#: elementor-addons/widgets/search/search.php:94
+msgid "Icon Color"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:776
+#: elementor-addons/widgets/blog/blog.php:1087
+#: elementor-addons/widgets/blog/blog.php:1273
+#: elementor-addons/widgets/button/button.php:282
+#: elementor-addons/widgets/custom-design/banner-one.php:419
+#: elementor-addons/widgets/custom-design/banner-two.php:519
+#: elementor-addons/widgets/icon-box/icon-box.php:1015
+#: elementor-addons/widgets/portfolio/portfolio.php:1112
+#: elementor-addons/widgets/tab/tab.php:398
+msgid "Vertical Position"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:874
+#: elementor-addons/widgets/blog/blog.php:1033
+#: elementor-addons/widgets/blog/blog.php:1296
+#: elementor-addons/widgets/button/button.php:323
+#: elementor-addons/widgets/contact-form/contact-form7.php:689
+#: elementor-addons/widgets/custom-design/banner-one.php:438
+#: elementor-addons/widgets/custom-design/banner-two.php:538
+#: elementor-addons/widgets/custom-design/banner-two.php:713
+#: elementor-addons/widgets/icon-box/icon-box.php:372
+#: elementor-addons/widgets/icon-box/icon-box.php:693
+#: elementor-addons/widgets/icon-box/icon-box.php:859
+#: elementor-addons/widgets/icon-box/icon-box.php:1038
+#: elementor-addons/widgets/portfolio/portfolio.php:878
+#: elementor-addons/widgets/portfolio/portfolio.php:1199
+#: elementor-addons/widgets/portfolio/portfolio.php:1433
+#: elementor-addons/widgets/team/team.php:342
+#: elementor-addons/widgets/team/team.php:582
+#: elementor-addons/widgets/testimonial/testimonial.php:829
+#: lib/codestar-framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:1058
+#: elementor-addons/widgets/blog/blog.php:1324
+#: elementor-addons/widgets/blog/blog.php:1520
+#: elementor-addons/widgets/button/button.php:351
+#: elementor-addons/widgets/portfolio/portfolio.php:1238
+#: elementor-addons/widgets/portfolio/portfolio.php:1759
+#: elementor-addons/widgets/team/team.php:366
+msgid "Transition Duration"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:1077
+#: elementor-addons/widgets/button/button.php:44
+#: elementor-addons/widgets/contact-form/contact-form7.php:557
+#: elementor-addons/widgets/icon-box/icon-box.php:925
+msgid "Button"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:1121
+#: elementor-addons/widgets/blog/blog.php:1372
+#: elementor-addons/widgets/button/button.php:141
+#: elementor-addons/widgets/button/button.php:329
+#: elementor-addons/widgets/contact-form/contact-form7.php:209
+#: elementor-addons/widgets/contact-form/contact-form7.php:386
+#: elementor-addons/widgets/contact-form/contact-form7.php:488
+#: elementor-addons/widgets/contact-form/contact-form7.php:609
+#: elementor-addons/widgets/contact-form/contact-form7.php:696
+#: elementor-addons/widgets/custom-design/banner-one.php:287
+#: elementor-addons/widgets/custom-design/banner-two.php:387
+#: elementor-addons/widgets/portfolio/portfolio.php:1611
+msgid "Text Color"
+msgstr ""
+
+#: elementor-addons/widgets/blog/blog.php:1220
+#: elementor-addons/widgets/button/button.php:229
+#: elementor-addons/widgets/custom-design/banner-one.php:375
+#: elementor-addons/widgets/custom-design/banner-two.php:475
+#: elementor-addons/widgets/icon-box/icon-box.php:962
+#: elementor-addons/widgets/offcanvas/offcanvas.php:127
+#: elementor-addons/widgets/search/search.php:61
+#: elementor-addons/widgets/slide/text-slide.php:365
+msgid "Icon Style"
+msgstr ""
+
+#: elementor-addons/widgets/button/button.php:20
+msgid "Button - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/button/button.php:76
+#: elementor-addons/widgets/slide/text-slide.php:110
+msgid "Text"
+msgstr ""
+
+#: elementor-addons/widgets/button/button.php:107
+#: elementor-addons/widgets/menu/mega-menu.php:82
+#: elementor-addons/widgets/menu/nav-menu.php:77
+#: elementor-addons/widgets/team/team.php:132
+msgid "URL"
+msgstr ""
+
+#: elementor-addons/widgets/button/button.php:118
+#: elementor-addons/widgets/contact-form/contact-form7.php:75
+#: elementor-addons/widgets/custom-design/image.php:106
+#: elementor-addons/widgets/video/video-icon.php:103
+#: elementor-addons/widgets/woo/cart.php:63
+msgid "Style"
+msgstr ""
+
+#: elementor-addons/widgets/button/button.php:303
+#: elementor-addons/widgets/contact-form/contact-form7.php:574
+#: elementor-addons/widgets/custom-design/image.php:113
+#: elementor-addons/widgets/logo/logo.php:122
+#: elementor-addons/widgets/slide/text-slide.php:234
+#: elementor-addons/widgets/tab/tab.php:354
+msgid "Width"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:20
+msgid "Contact Form 7 - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:45
+msgid "Form not found"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:56
+msgid "Contact Form"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:62
+msgid "Select Form"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:135
+msgid "Justified"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:152
+msgid "Input"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:185
+#: elementor-addons/widgets/contact-form/contact-form7.php:367
+#: elementor-addons/widgets/contact-form/contact-form7.php:477
+#: elementor-addons/widgets/contact-form/contact-form7.php:620
+#: elementor-addons/widgets/contact-form/contact-form7.php:707
+msgid "Background Color"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:226
+#: elementor-addons/widgets/contact-form/contact-form7.php:397
+msgid "Placeholder Color"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:256
+#: elementor-addons/widgets/contact-form/contact-form7.php:411
+#: elementor-addons/widgets/contact-form/contact-form7.php:508
+#: elementor-addons/widgets/contact-form/contact-form7.php:658
+#: elementor-addons/widgets/contact-form/contact-form7.php:719
+#: elementor-addons/widgets/video/video-icon.php:130
+msgid "Border"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:264
+#: elementor-addons/widgets/contact-form/contact-form7.php:419
+msgid "Focus Border Color"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:340
+msgid "Textarea"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:469
+msgid "Label"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form/contact-form7.php:750
+msgid "Please Select contact form."
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:21
+msgid "Banner One - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:54
+#: elementor-addons/widgets/custom-design/banner-two.php:54
+msgid "Slider Content"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:61
+#: elementor-addons/widgets/custom-design/banner-two.php:62
+#: elementor-addons/widgets/slide/text-slide.php:121
+msgid "Choose Image"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:85
+#: elementor-addons/widgets/custom-design/banner-two.php:94
+#: elementor-addons/widgets/icon-box/icon-box.php:219
+msgid "Button Text"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:93
+#: elementor-addons/widgets/custom-design/banner-two.php:102
+#: elementor-addons/widgets/icon-box/icon-box.php:231
+msgid "Button URL"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:101
+#: elementor-addons/widgets/custom-design/banner-two.php:110
+msgid "Banner Slides"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:109
+#: elementor-addons/widgets/custom-design/banner-one.php:118
+msgid "Pioneering Progress One Algorithm"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:110
+#: elementor-addons/widgets/custom-design/banner-one.php:119
+msgid ""
+"Lorem ipsum dolor sit amet, conse ct etur adipiscing elit. Sed sit amet rcus "
+"nunc. Duis egestas ac ante "
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:132
+#: elementor-addons/widgets/custom-design/banner-two.php:143
+msgid "Banner Shape"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:138
+msgid "Banner Bg"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:146
+#: elementor-addons/widgets/custom-design/banner-two.php:149
+msgid "Shape One"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:154
+#: elementor-addons/widgets/custom-design/banner-two.php:157
+msgid "Shape Two"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:162
+msgid "Shape Three"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:180
+#: elementor-addons/widgets/custom-design/banner-two.php:167
+msgid "Content Style"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:187
+#: elementor-addons/widgets/custom-design/banner-two.php:174
+msgid "Banner Padding"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:264
+#: elementor-addons/widgets/custom-design/banner-two.php:364
+msgid "Button Style"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:297
+#: elementor-addons/widgets/custom-design/banner-two.php:397
+msgid "BG Color"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-one.php:521
+#: elementor-addons/widgets/custom-design/banner-one.php:531
+#: elementor-addons/widgets/custom-design/banner-one.php:541
+#: elementor-addons/widgets/custom-design/banner-one.php:551
+#: elementor-addons/widgets/custom-design/banner-two.php:839
+#: elementor-addons/widgets/custom-design/banner-two.php:849
+#: elementor-addons/widgets/custom-design/image.php:331
+#: elementor-addons/widgets/custom-design/image.php:341
+#: elementor-addons/widgets/custom-design/image.php:356
+#: elementor-addons/widgets/custom-design/image.php:365
+#: elementor-addons/widgets/custom-design/image.php:374
+#: elementor-addons/widgets/team/team.php:627
+msgid "No alt text"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:21
+msgid "Banner Two - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:118
+#: elementor-addons/widgets/custom-design/banner-two.php:128
+msgid "Digital Growth"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:119
+#: elementor-addons/widgets/custom-design/banner-two.php:129
+msgid "Empowering Organizations "
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:120
+#: elementor-addons/widgets/custom-design/banner-two.php:130
+msgid ""
+"Lorem ipsum dolor sit amet, conse ct etur adipiscing elit. Sed sit amet rcus "
+"nunc. Duis egestas ac ante sed tincidun"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:570
+#: elementor-addons/widgets/portfolio/portfolio.php:1258
+#: elementor-addons/widgets/testimonial/testimonial.php:654
+msgid "Arrow Style"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:634
+#: elementor-addons/widgets/offcanvas/offcanvas.php:134
+#: elementor-addons/widgets/portfolio/portfolio.php:1326
+#: elementor-addons/widgets/search/search.php:104
+#: elementor-addons/widgets/team/team.php:474
+#: elementor-addons/widgets/team/team.php:558
+#: elementor-addons/widgets/testimonial/testimonial.php:722
+msgid "Icon Size"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:657
+#: elementor-addons/widgets/custom-design/banner-two.php:760
+#: elementor-addons/widgets/portfolio/portfolio.php:406
+#: elementor-addons/widgets/testimonial/testimonial.php:276
+msgid "Arrow Position"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/banner-two.php:692
+#: elementor-addons/widgets/custom-design/banner-two.php:741
+#: elementor-addons/widgets/offcanvas/offcanvas.php:200
+#: elementor-addons/widgets/slide/text-slide.php:399
+msgid "Opacity"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:20
+msgid "Images - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:44
+msgid "Image Style"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:50
+msgid "Select Image Style"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:53
+msgid "Style 01"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:54
+msgid "Style 02"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:65
+msgid "Images"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:71
+msgid "Image One"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:81
+msgid "Image Two"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:91
+msgid "Image Three"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:194
+#: elementor-addons/widgets/portfolio/portfolio.php:638
+#: elementor-addons/widgets/slide/text-slide.php:278
+msgid "Object Fit"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:201
+#: elementor-addons/widgets/portfolio/portfolio.php:642
+#: elementor-addons/widgets/slide/text-slide.php:285
+msgid "Fill"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:202
+#: elementor-addons/widgets/portfolio/portfolio.php:643
+#: elementor-addons/widgets/slide/text-slide.php:286
+#: lib/codestar-framework/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:203
+#: elementor-addons/widgets/portfolio/portfolio.php:644
+#: elementor-addons/widgets/slide/text-slide.php:287
+#: lib/codestar-framework/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: elementor-addons/widgets/custom-design/image.php:294
+msgid "Roll Animation"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:22
+msgid "Icon Box - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:46
+msgid "Service Content"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:86
+#: elementor-addons/widgets/portfolio/portfolio.php:324
+#: elementor-addons/widgets/portfolio/portfolio.php:410
+#: elementor-addons/widgets/tab/tab.php:169
+#: elementor-addons/widgets/testimonial/testimonial.php:280
+msgid "Middle"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:131
+msgid "Enable Number"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:144
+msgid "01"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:167
+msgid "This is the heading"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:174
+msgid "Title URL"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:179
+#: elementor-addons/widgets/icon-box/icon-box.php:202
+msgid "Paste URL or Link"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:188
+#: elementor-addons/widgets/icon-box/icon-box.php:803
+#: elementor-addons/widgets/icon-box/icon-box.php:893
+msgid "Description"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:190
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:197
+msgid "Description URL"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:208
+msgid "Enable Button"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:277
+msgid "Box"
+msgstr ""
+
+#: elementor-addons/widgets/icon-box/icon-box.php:872
+#: elementor-addons/widgets/icon-box/icon-box.php:900
+#: elementor-addons/widgets/icon-box/icon-box.php:1044
+#: elementor-addons/widgets/menu/mega-menu.php:148
+#: elementor-addons/widgets/menu/mega-menu.php:267
+#: elementor-addons/widgets/menu/nav-menu.php:139
+#: elementor-addons/widgets/menu/nav-menu.php:194
+#: elementor-addons/widgets/slide/text-slide.php:352
+#: elementor-addons/widgets/slide/text-slide.php:388
+msgid "Hover Color"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:23
+msgid "Logo - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:47
+msgid "Logo"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:54
+msgid "Choose logo"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:102
+msgid "Link"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:104
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-addons/widgets/logo/logo.php:114
+msgid "Logo Style"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:20
+msgid "Mega Menu - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:45
+msgid "Desktop Mega Menu"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:63
+#: elementor-addons/widgets/menu/nav-menu.php:61
+msgid "Mobile Menu"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:70
+#: elementor-addons/widgets/menu/nav-menu.php:67
+msgid "Mobile Logo"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:94
+msgid "Deaktop Style"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:102
+#: elementor-addons/widgets/menu/nav-menu.php:95
+msgid "Menu Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:160
+msgid "Menu Gap"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:186
+msgid "Mega Menu Width"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:204
+#: elementor-addons/widgets/woo/cart.php:179
+msgid "X Position"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:223
+#: elementor-addons/widgets/menu/nav-menu.php:169
+msgid "Sub Menu"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:288
+#: elementor-addons/widgets/menu/nav-menu.php:278
+msgid "Sub Menu Top Space"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:307
+#: elementor-addons/widgets/menu/nav-menu.php:296
+msgid "Dropdown Menu Top Space"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:325
+#: elementor-addons/widgets/menu/nav-menu.php:314
+msgid "Menu Arrow Space"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:338
+#: elementor-addons/widgets/menu/nav-menu.php:327
+msgid "Mobile Nav Style"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:381
+#: elementor-addons/widgets/menu/nav-menu.php:371
+msgid "Nav Popup"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:388
+#: elementor-addons/widgets/menu/nav-menu.php:378
+msgid "Popup BG"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:398
+#: elementor-addons/widgets/menu/nav-menu.php:388
+#: elementor-addons/widgets/offcanvas/offcanvas.php:271
+msgid "Close Icon"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:408
+#: elementor-addons/widgets/menu/nav-menu.php:398
+msgid "Close Icon BG"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:418
+#: elementor-addons/widgets/menu/nav-menu.php:408
+msgid "Menu Color"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:428
+#: elementor-addons/widgets/menu/nav-menu.php:418
+msgid "Menu Hover"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:438
+#: elementor-addons/widgets/menu/nav-menu.php:428
+msgid "Menu Border"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:448
+#: elementor-addons/widgets/menu/nav-menu.php:438
+msgid "Dropdown Arrow"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:459
+#: elementor-addons/widgets/menu/nav-menu.php:448
+msgid "Arrow BG"
+msgstr ""
+
+#: elementor-addons/widgets/menu/mega-menu.php:470
+#: elementor-addons/widgets/menu/nav-menu.php:458
+msgid "Popup Padding"
+msgstr ""
+
+#: elementor-addons/widgets/menu/nav-menu.php:20
+msgid "Nav Menu - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/menu/nav-menu.php:44
+#: elementor-addons/widgets/menu/vertical-menu.php:44
+msgid "Custom Menu"
+msgstr ""
+
+#: elementor-addons/widgets/menu/nav-menu.php:88
+msgid "Deaktop Nav Style"
+msgstr ""
+
+#: elementor-addons/widgets/menu/nav-menu.php:151
+msgid "Menu Space"
+msgstr ""
+
+#: elementor-addons/widgets/menu/vertical-menu.php:20
+msgid "Vertical Menu - bantec"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:20
+msgid "Offcanvas - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:45
+msgid "Offcanvas Content"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:51
+msgid "Icon Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:89
+msgid "Popup Template"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:98
+#: elementor-addons/widgets/offcanvas/offcanvas.php:166
+#: elementor-addons/widgets/search/search.php:124
+msgid "Popup Style"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:102
+msgid "Top To Bottom"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:106
+msgid "Right To Left"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:110
+msgid "Bottom To Top"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:114
+msgid "Left To Right"
+msgstr ""
+
+#: elementor-addons/widgets/offcanvas/offcanvas.php:190
+msgid "Overlay Background"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:20
+msgid "Portfolio - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:52
+#: elementor-addons/widgets/testimonial/testimonial.php:54
+msgid "Style & Design"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:61
+msgid "Portfolio Style 01"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:123
+#: elementor-addons/widgets/testimonial/testimonial.php:126
+msgid "Enable Slider"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:134
+#: elementor-addons/widgets/testimonial/testimonial.php:137
+msgid "Show Arrow"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:148
+#: elementor-addons/widgets/testimonial/testimonial.php:151
+msgid "Show Dots"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:162
+#: elementor-addons/widgets/testimonial/testimonial.php:165
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:177
+#: elementor-addons/widgets/testimonial/testimonial.php:180
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:191
+#: elementor-addons/widgets/slide/text-slide.php:49
+#: elementor-addons/widgets/testimonial/testimonial.php:194
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:205
+#: elementor-addons/widgets/testimonial/testimonial.php:208
+msgid "Slide View Gap"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:219
+#: elementor-addons/widgets/testimonial/testimonial.php:222
+msgid "Slide View Desktop"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:233
+msgid "Slide View Laptop"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:247
+#: elementor-addons/widgets/testimonial/testimonial.php:236
+msgid "Slide View Tablet"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:261
+#: elementor-addons/widgets/testimonial/testimonial.php:250
+msgid "Slide View Mobile"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:347
+msgid "Portfolio Query"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:353
+msgid "Number of Portfolio"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:382
+msgid "Show Content"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:396
+#: elementor-addons/widgets/testimonial/testimonial.php:266
+msgid "Arrow Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:452
+#: elementor-addons/widgets/testimonial/testimonial.php:322
+msgid "Dots Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:524
+msgid "Slide Box"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:595
+#: elementor-addons/widgets/portfolio/portfolio.php:668
+msgid "Image Zoom"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:687
+msgid "Active Space"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:718
+msgid "Full Width"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:722
+msgid "Area Full"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:764
+msgid "Subtitle"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:788
+msgid "Content Background"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:901
+msgid "Title Transition"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:916
+#: elementor-addons/widgets/woo/cart.php:161
+msgid "Y Position"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:1349
+#: elementor-addons/widgets/testimonial/testimonial.php:745
+msgid "Out Side Gap"
+msgstr ""
+
+#: elementor-addons/widgets/portfolio/portfolio.php:1465
+#: elementor-addons/widgets/testimonial/testimonial.php:861
+msgid "Dot Style"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:20
+msgid "Search - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:44
+#: elementor-addons/widgets/video/video-icon.php:51
+#: elementor-addons/widgets/woo/cart.php:43
+msgid "Section Content"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:50
+msgid "Placeholder"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:52
+#: lib/codestar-framework/classes/admin-options.class.php:513
+#: lib/codestar-framework/fields/icon/icon.php:57
+#: lib/codestar-framework/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:141
+msgid "Form Background"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:151
+msgid "Form Color"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:161
+msgid "Form Icon Color"
+msgstr ""
+
+#: elementor-addons/widgets/search/search.php:171
+msgid "Close Icon Color"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:19
+msgid "Skill Bar - bantec"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:47
+msgid "Select ProgressBar Style"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:55
+msgid "Line"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:56
+msgid "Circle"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:67
+msgid "ProgressBar Content"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:73
+#: elementor-addons/widgets/skills/skills-bar.php:94
+msgid "Skill Lavel"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:86
+msgid "Skill Title"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:102
+msgid "Skills List"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:107
+msgid "Web Development"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:108
+msgid "70"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:112
+msgid "Graphic Design"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:113
+msgid "90"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:189
+msgid "Counter"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:197
+msgid "Inline Counter"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:232
+msgid "Skill Bar"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:239
+msgid "Bar Background"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:250
+msgid "Inner Background"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:261
+msgid "Area Background"
+msgstr ""
+
+#: elementor-addons/widgets/skills/skills-bar.php:300
+msgid "Bar Width"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:20
+msgid "Text Slide - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:43
+msgid "Style & Options"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:72
+msgid "Animation Style"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:75
+msgid "Left to Right"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:76
+msgid "Right to Left"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:85
+msgid "Text Stroke"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:101
+msgid "Slide Content"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:107
+msgid "Type Of Content"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:129
+#: elementor-addons/widgets/slide/text-slide.php:187
+msgid "Content URL"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:137
+#: elementor-addons/widgets/slide/text-slide.php:195
+msgid "Content Lists"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:201
+#: elementor-addons/widgets/slide/text-slide.php:207
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:224
+msgid "Item Style"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:322
+msgid "Heading Style"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:445
+msgid "Size"
+msgstr ""
+
+#: elementor-addons/widgets/slide/text-slide.php:467
+msgid "Icon Stroke"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:20
+msgid "Tabs - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:43
+msgid "Tabs Options"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:50
+#: elementor-addons/widgets/team/team.php:91
+#: elementor-addons/widgets/team/team.php:220
+msgid "Position"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:53
+msgid "Horizontal"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:54
+msgid "Vertical"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:84
+msgid "Content Type"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:88
+msgid "Template"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:98
+msgid "Default content"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:99
+msgid "Type your content here"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:121
+msgid "Tabs Item"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:126
+msgid "Tab One"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:129
+msgid "Tab Two"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:218
+msgid "Tab Button"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:244
+msgid "Space Between"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:330
+msgid "Tab Maker"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:420
+msgid "Horizontal Position"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:517
+msgid "Tab Content"
+msgstr ""
+
+#: elementor-addons/widgets/tab/tab.php:698
+msgid "Tab Area"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:21
+msgid "Team Member - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:45
+msgid "Team Style"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:51
+msgid "Select Team Style"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:54
+msgid "Team Style 01"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:55
+msgid "Team Style 02"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:66
+msgid "Team Content"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:72
+msgid "Team Image"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:82
+#: elementor-addons/widgets/team/team.php:196
+msgid "Name"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:84
+msgid "Amelia Clover"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:93
+msgid "Senior Advisor"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:100
+msgid "Single URL"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:109
+msgid "Show Social"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:140
+msgid "Social Icons"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:146
+msgid "fab fa-facebook-f"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:147
+msgid "https://facebook.com"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:392
+msgid "Social"
+msgstr ""
+
+#: elementor-addons/widgets/team/team.php:507
+msgid "Share"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:20
+msgid "Testimonial - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:63
+msgid "Testimonial Style 01"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:64
+msgid "Testimonial Style 02"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:360
+msgid "Testimonial Content"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:367
+#: elementor-addons/widgets/testimonial/testimonial.php:533
+msgid "Author Name"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:375
+#: elementor-addons/widgets/testimonial/testimonial.php:559
+msgid "Author Position"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:383
+msgid "Write Content"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:391
+msgid "Testimonial Slides"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:396
+msgid "Web Designer"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:397
+msgid "Sara Albert"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:398
+#: elementor-addons/widgets/testimonial/testimonial.php:403
+msgid ""
+"Proin pretium sem libero, nec aliquet augue lobortis in. Phasellus nibh "
+"quam, molestie id est sit amet."
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:401
+msgid "Developer"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:402
+msgid "Richerd William"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:414
+msgid "Testimonial Item"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:526
+msgid "Item Content"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:586
+msgid "Author Content"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:624
+msgid "Rating Color"
+msgstr ""
+
+#: elementor-addons/widgets/testimonial/testimonial.php:635
+msgid "Rating Size"
+msgstr ""
+
+#: elementor-addons/widgets/video/video-icon.php:20
+msgid "Video Icon - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/video/video-icon.php:68
+msgid "Video URL"
+msgstr ""
+
+#: elementor-addons/widgets/video/video-icon.php:70
+msgid "https://www.youtube.com/watch?v=SZEflIVnhH8"
+msgstr ""
+
+#: elementor-addons/widgets/woo/cart.php:20
+msgid "Cart Icon - Bantec"
+msgstr ""
+
+#: elementor-addons/widgets/woo/cart.php:98
+msgid "Quantity"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:169
+msgid "Error while saving the changes."
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:229
+msgid "Settings successfully imported."
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:241
+#: lib/codestar-framework/classes/admin-options.class.php:257
+msgid "Default settings restored."
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:328
+msgid "Settings saved."
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:509
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:511
+msgid "show all settings"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:516
+#: lib/codestar-framework/classes/admin-options.class.php:639
+msgid "Save"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:516
+#: lib/codestar-framework/classes/admin-options.class.php:639
+msgid "Saving..."
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:517
+#: lib/codestar-framework/classes/admin-options.class.php:640
+msgid "Reset Section"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:517
+#: lib/codestar-framework/classes/admin-options.class.php:640
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:518
+#: lib/codestar-framework/classes/admin-options.class.php:641
+msgid "Reset All"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:518
+#: lib/codestar-framework/classes/admin-options.class.php:641
+#: lib/codestar-framework/classes/comment-options.class.php:201
+#: lib/codestar-framework/classes/metabox-options.class.php:278
+#: lib/codestar-framework/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:518
+#: lib/codestar-framework/classes/admin-options.class.php:641
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: lib/codestar-framework/classes/admin-options.class.php:616
+#: lib/codestar-framework/classes/comment-options.class.php:184
+#: lib/codestar-framework/classes/metabox-options.class.php:261
+#: lib/codestar-framework/fields/button_set/button_set.php:56
+#: lib/codestar-framework/fields/checkbox/checkbox.php:82
+#: lib/codestar-framework/fields/radio/radio.php:75
+#: lib/codestar-framework/fields/select/select.php:113
+#: lib/codestar-framework/functions/actions.php:41
+msgid "No data available."
+msgstr ""
+
+#: lib/codestar-framework/classes/comment-options.class.php:202
+#: lib/codestar-framework/classes/metabox-options.class.php:279
+msgid "update post"
+msgstr ""
+
+#: lib/codestar-framework/classes/comment-options.class.php:202
+#: lib/codestar-framework/classes/metabox-options.class.php:279
+msgid "Cancel"
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:606
+msgid "Are you sure?"
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:607
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:608
+msgid "Searching..."
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:609
+msgid "No results found."
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:710
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: lib/codestar-framework/classes/setup.class.php:778
+#: lib/codestar-framework/classes/setup.class.php:782
+msgid "Field not found!"
+msgstr ""
+
+#: lib/codestar-framework/classes/shortcode-options.class.php:210
+#: lib/codestar-framework/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: lib/codestar-framework/classes/shortcode-options.class.php:247
+#: lib/codestar-framework/functions/actions.php:16
+#: lib/codestar-framework/functions/actions.php:68
+#: lib/codestar-framework/functions/actions.php:106
+#: lib/codestar-framework/functions/actions.php:141
+#: lib/codestar-framework/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:36
+#: lib/codestar-framework/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:72
+#: lib/codestar-framework/fields/date/date.php:31
+#: lib/codestar-framework/fields/datetime/datetime.php:36
+msgid "From"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:90
+#: lib/codestar-framework/fields/date/date.php:32
+#: lib/codestar-framework/fields/datetime/datetime.php:37
+msgid "To"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:236
+#: lib/codestar-framework/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:237
+#: lib/codestar-framework/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:238
+#: lib/codestar-framework/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:25
+#: lib/codestar-framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:26
+#: lib/codestar-framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:27
+#: lib/codestar-framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:28
+#: lib/codestar-framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:29
+#: lib/codestar-framework/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: lib/codestar-framework/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: lib/codestar-framework/fields/checkbox/checkbox.php:23
+msgid "Check/Uncheck All"
+msgstr ""
+
+#: lib/codestar-framework/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: lib/codestar-framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:41
+#: lib/codestar-framework/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:52
+#: lib/codestar-framework/fields/group/group.php:107
+#: lib/codestar-framework/fields/repeater/repeater.php:48
+#: lib/codestar-framework/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:141
+#: lib/codestar-framework/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:142
+#: lib/codestar-framework/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: lib/codestar-framework/fields/icon/icon.php:20
+#: lib/codestar-framework/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: lib/codestar-framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: lib/codestar-framework/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: lib/codestar-framework/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: lib/codestar-framework/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: lib/codestar-framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: lib/codestar-framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: lib/codestar-framework/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: lib/codestar-framework/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: lib/codestar-framework/fields/media/media.php:25
+#: lib/codestar-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: lib/codestar-framework/fields/media/media.php:26
+#: lib/codestar-framework/fields/upload/upload.php:25
+msgid "Remove"
+msgstr ""
+
+#: lib/codestar-framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: lib/codestar-framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: lib/codestar-framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: lib/codestar-framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:144
+#: lib/codestar-framework/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:72
+#: lib/codestar-framework/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:14
+#: lib/codestar-framework/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:32
+#: lib/codestar-framework/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:50
+#: lib/codestar-framework/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:68
+#: lib/codestar-framework/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: lib/codestar-framework/views/about.php:14
+#: lib/codestar-framework/views/about.php:20
+#: lib/codestar-framework/views/about.php:28
+#: lib/codestar-framework/views/about.php:34
+#: lib/codestar-framework/views/about.php:40
+#: lib/codestar-framework/views/about.php:48
+#: lib/codestar-framework/views/about.php:54
+#: lib/codestar-framework/views/about.php:60
+msgid "active"
+msgstr ""
+
+#: lib/codestar-framework/views/about.php:14
+#: lib/codestar-framework/views/about.php:20
+#: lib/codestar-framework/views/about.php:28
+#: lib/codestar-framework/views/about.php:34
+#: lib/codestar-framework/views/about.php:40
+#: lib/codestar-framework/views/about.php:48
+#: lib/codestar-framework/views/about.php:54
+#: lib/codestar-framework/views/about.php:60
+msgid "check"
+msgstr ""
